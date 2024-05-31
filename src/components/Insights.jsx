@@ -20,7 +20,9 @@ const Insights = () => {
               title="Top 3 Chemicals Insights"
               text="data insights for toxic chemicals produced by industry from 1987 - 2023."
             />
-    
+            <div>
+              <iframe width="100%" height="594" frameborder="0"src="https://observablehq.com/embed/8cafda7de076e39f@406?cells=chart&banner=false"></iframe>
+            </div>
             <div className="relative">
               <div className="relative z-1 flex items-center h-[39rem] mb-5 p-8 border border-n-1/10 rounded-3xl overflow-hidden lg:p-20 xl:h-[46rem]">
                 <div className="absolute top-0 left-0 w-full h-full pointer-events-none md:w-3/5 xl:w-auto">
@@ -38,6 +40,7 @@ const Insights = () => {
                   <p className="body-2 mb-[3rem] text-n-3">
                     Brainwave unlocks the potential of AI-powered applications
                   </p>
+                  
                 </div>
               </div>
     
@@ -70,7 +73,7 @@ const Insights = () => {
                     <p className="body-2 mb-[2rem] text-n-3">
                       This section we can list some health desearse that those chemicals can cause.
                     </p>
-    
+                    
                     <ul className="flex items-center justify-between">
                       {chartholderIcons.map((item, index) => (
                         <li
