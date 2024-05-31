@@ -1,0 +1,1001 @@
+{
+    "name": "industrycheminfo",
+    "children": [
+        {
+            "name": "Beverages",
+            "children": [
+                {
+                    "name": "Nitric acid",
+                    "value": 200784.5107
+                },
+                {
+                    "name": "Nitrate compounds (water dissociable; reportable only when in aqueous solution)",
+                    "value": 182195
+                },
+                {
+                    "name": "Ammonia",
+                    "value": 158419.65
+                },
+                {
+                    "name": "Hydrogen sulfide",
+                    "value": 32431
+                }
+            ]
+        },
+        {
+            "name": "Chemical Wholesalers",
+            "children": [
+                {
+                    "name": "Ammonia",
+                    "value": 244239
+                },
+                {
+                    "name": "Dichloromethane",
+                    "value": 32308
+                },
+                {
+                    "name": "Xylene (mixed isomers)",
+                    "value": 30546.7249
+                },
+                {
+                    "name": "Toluene",
+                    "value": 25759.502399999998
+                },
+                {
+                    "name": "1,2,4-Trimethylbenzene",
+                    "value": 23401.7458
+                },
+                {
+                    "name": "Methanol",
+                    "value": 22361.15
+                },
+                {
+                    "name": "Certain glycol ethers",
+                    "value": 10572.129500000001
+                }
+            ]
+        },
+        {
+            "name": "Chemicals",
+            "children": [
+                {
+                    "name": "Methanol",
+                    "value": 15262646.286999999
+                },
+                {
+                    "name": "Ethylene",
+                    "value": 10000980.352
+                },
+                {
+                    "name": "Propylene",
+                    "value": 8149378.312
+                },
+                {
+                    "name": "N-Methyl-2-pyrrolidone",
+                    "value": 2576105.82
+                },
+                {
+                    "name": "Dichloromethane",
+                    "value": 2551528.604
+                },
+                {
+                    "name": "Acetonitrile",
+                    "value": 1905073.1
+                },
+                {
+                    "name": "Copper  And Copper Compounds",
+                    "value": 1450440.78
+                },
+                {
+                    "name": "N,N-Dimethylformamide",
+                    "value": 1261687.1
+                },
+                {
+                    "name": "Hydrochloric acid (acid aerosols including mists, vapors, gas, fog, and other airborne forms of any particle size)",
+                    "value": 1138419
+                },
+                {
+                    "name": "Ammonia",
+                    "value": 1084124.4999999998
+                },
+                {
+                    "name": "n-Hexane",
+                    "value": 929262
+                },
+                {
+                    "name": "Toluene",
+                    "value": 913551.8940000001
+                },
+                {
+                    "name": "Styrene",
+                    "value": 665788.5
+                },
+                {
+                    "name": "Chlorine",
+                    "value": 589061.44511
+                },
+                {
+                    "name": "Xylene (mixed isomers)",
+                    "value": 433113.742
+                },
+                {
+                    "name": "Carbon tetrachloride",
+                    "value": 418241
+                },
+                {
+                    "name": "Nitrate compounds (water dissociable; reportable only when in aqueous solution)",
+                    "value": 278511.19
+                },
+                {
+                    "name": "Nitric acid",
+                    "value": 265740.2
+                }
+            ]
+        },
+        {
+            "name": "Computers and Electronic Products",
+            "children": [
+                {
+                    "name": "N-Methyl-2-pyrrolidone",
+                    "value": 2644100.16
+                },
+                {
+                    "name": "Copper",
+                    "value": 728985.01409
+                },
+                {
+                    "name": "Ammonia",
+                    "value": 587305.78
+                },
+                {
+                    "name": "Acetonitrile",
+                    "value": 583893.099
+                },
+                {
+                    "name": "Copper  And Copper Compounds",
+                    "value": 531821.6699999999
+                },
+                {
+                    "name": "Sulfuric acid (acid aerosols including mists, vapors, gas, fog, and other airborne forms of any particle size)",
+                    "value": 445975.22
+                },
+                {
+                    "name": "Nitric acid",
+                    "value": 387898.49500000005
+                },
+                {
+                    "name": "Nitrate compounds (water dissociable; reportable only when in aqueous solution)",
+                    "value": 385661.76
+                },
+                {
+                    "name": "Copper compounds",
+                    "value": 301446.22
+                },
+                {
+                    "name": "Methanol",
+                    "value": 277446.41
+                },
+                {
+                    "name": "Certain glycol ethers",
+                    "value": 201158.33000000002
+                },
+                {
+                    "name": "Hydrogen fluoride",
+                    "value": 149870.12
+                },
+                {
+                    "name": "Toluene",
+                    "value": 145497.03100000002
+                }
+            ]
+        },
+        {
+            "name": "Electric Utilities",
+            "children": [
+                {
+                    "name": "Acetaldehyde",
+                    "value": 33132.4
+                },
+                {
+                    "name": "Ammonia",
+                    "value": 1577.655
+                }
+            ]
+        },
+        {
+            "name": "Electrical Equipment",
+            "children": [
+                {
+                    "name": "Lead  And Lead Compounds",
+                    "value": 2866512.7693350003
+                },
+                {
+                    "name": "Copper",
+                    "value": 1847414
+                },
+                {
+                    "name": "Hydrogen cyanide",
+                    "value": 1818071
+                },
+                {
+                    "name": "Nitric acid",
+                    "value": 830111
+                },
+                {
+                    "name": "Ammonia",
+                    "value": 766382
+                },
+                {
+                    "name": "Lead compounds",
+                    "value": 728720.27
+                },
+                {
+                    "name": "Nitrate compounds (water dissociable; reportable only when in aqueous solution)",
+                    "value": 166965
+                }
+            ]
+        },
+        {
+            "name": "Fabricated Metals",
+            "children": [
+                {
+                    "name": "Nickel",
+                    "value": 3003371.164208
+                },
+                {
+                    "name": "Chromium",
+                    "value": 2017170.030835
+                },
+                {
+                    "name": "Certain glycol ethers",
+                    "value": 1622166.55
+                },
+                {
+                    "name": "Copper",
+                    "value": 1328395.9780000001
+                },
+                {
+                    "name": "Zinc compounds",
+                    "value": 1167742.7502000001
+                },
+                {
+                    "name": "Nitric acid",
+                    "value": 1026838.753
+                },
+                {
+                    "name": "n-Butyl alcohol",
+                    "value": 1021739.6
+                },
+                {
+                    "name": "Nitrate compounds (water dissociable; reportable only when in aqueous solution)",
+                    "value": 828384.0120000001
+                },
+                {
+                    "name": "Xylene (mixed isomers)",
+                    "value": 648001
+                },
+                {
+                    "name": "Manganese",
+                    "value": 513933.12700000004
+                },
+                {
+                    "name": "Cobalt",
+                    "value": 374020.4
+                },
+                {
+                    "name": "1,2,4-Trimethylbenzene",
+                    "value": 195237.7
+                }
+            ]
+        },
+        {
+            "name": "Food",
+            "children": [
+                {
+                    "name": "Nitrate compounds (water dissociable; reportable only when in aqueous solution)",
+                    "value": 23151669.4
+                },
+                {
+                    "name": "Nitric acid",
+                    "value": 15670703.84
+                },
+                {
+                    "name": "Peracetic acid",
+                    "value": 2356212.39
+                },
+                {
+                    "name": "Ammonia",
+                    "value": 1461410.8
+                }
+            ]
+        },
+        {
+            "name": "Furniture",
+            "children": [
+                {
+                    "name": "Manganese",
+                    "value": 959
+                }
+            ]
+        },
+        {
+            "name": "Hazardous Waste",
+            "children": [
+                {
+                    "name": "Lead  And Lead Compounds",
+                    "value": 14099295.301994
+                },
+                {
+                    "name": "Ethylene glycol",
+                    "value": 5906734.311315
+                },
+                {
+                    "name": "Asbestos (friable)",
+                    "value": 3178914.945805
+                },
+                {
+                    "name": "Methanol",
+                    "value": 3048424.708156
+                },
+                {
+                    "name": "N-Methyl-2-pyrrolidone",
+                    "value": 2708422
+                },
+                {
+                    "name": "Acetonitrile",
+                    "value": 2305871.12
+                },
+                {
+                    "name": "Toluene",
+                    "value": 2122340.72
+                },
+                {
+                    "name": "Selenium  And Selenium Compounds",
+                    "value": 1687207.7256
+                },
+                {
+                    "name": "N,N-Dimethylformamide",
+                    "value": 1183503
+                },
+                {
+                    "name": "Aluminum oxide (fibrous forms)",
+                    "value": 1117860.904871
+                },
+                {
+                    "name": "Copper  And Copper Compounds",
+                    "value": 1035963.3847759999
+                },
+                {
+                    "name": "Naphthalene",
+                    "value": 946705.243185
+                },
+                {
+                    "name": "Zinc compounds",
+                    "value": 865722.3290919999
+                },
+                {
+                    "name": "Dichloromethane",
+                    "value": 841471.21
+                },
+                {
+                    "name": "Zinc (fume or dust)",
+                    "value": 692402.26
+                },
+                {
+                    "name": "Aluminum (fume or dust)",
+                    "value": 582171.47
+                },
+                {
+                    "name": "Lead",
+                    "value": 518180.8993
+                },
+                {
+                    "name": "Copper",
+                    "value": 503235.28
+                },
+                {
+                    "name": "Styrene",
+                    "value": 399084.80790699995
+                },
+                {
+                    "name": "Barium",
+                    "value": 391133.11317799997
+                },
+                {
+                    "name": "Nickel  And Nickel Compounds",
+                    "value": 383821.785392
+                }
+            ]
+        },
+        {
+            "name": "Machinery",
+            "children": [
+                {
+                    "name": "Lead",
+                    "value": 665067.8364
+                },
+                {
+                    "name": "Nickel  And Nickel Compounds",
+                    "value": 446911.5
+                },
+                {
+                    "name": "Nickel",
+                    "value": 251449.5919
+                },
+                {
+                    "name": "Chromium",
+                    "value": 198023.42430200003
+                },
+                {
+                    "name": "Chromium  and Chromium Compounds(except for chromite ore mined in the Transvaal Region)",
+                    "value": 176516.05
+                },
+                {
+                    "name": "Manganese  And Manganese Compounds",
+                    "value": 153777.3
+                },
+                {
+                    "name": "Cobalt",
+                    "value": 100936.1
+                },
+                {
+                    "name": "Copper",
+                    "value": 90078.5843
+                },
+                {
+                    "name": "Copper  And Copper Compounds",
+                    "value": 63501
+                },
+                {
+                    "name": "Manganese",
+                    "value": 40093.88619999999
+                }
+            ]
+        },
+        {
+            "name": "Metal Mining",
+            "children": [
+                {
+                    "name": "Lead compounds",
+                    "value": 72341.7
+                },
+                {
+                    "name": "Mercury compounds",
+                    "value": 25271.4
+                },
+                {
+                    "name": "Propylene",
+                    "value": 2301
+                },
+                {
+                    "name": "Nitrate compounds (water dissociable; reportable only when in aqueous solution)",
+                    "value": 1002
+                }
+            ]
+        },
+        {
+            "name": "Miscellaneous Manufacturing",
+            "children": [
+                {
+                    "name": "N,N-Dimethylformamide",
+                    "value": 2178997
+                },
+                {
+                    "name": "Methanol",
+                    "value": 59435.76
+                },
+                {
+                    "name": "Chromium",
+                    "value": 38487
+                },
+                {
+                    "name": "Toluene",
+                    "value": 31196
+                },
+                {
+                    "name": "Nickel",
+                    "value": 16000
+                },
+                {
+                    "name": "Certain glycol ethers",
+                    "value": 11816
+                },
+                {
+                    "name": "Xylene (mixed isomers)",
+                    "value": 7540.89
+                }
+            ]
+        },
+        {
+            "name": "Nonmetallic Mineral Product",
+            "children": [
+                {
+                    "name": "Ammonia",
+                    "value": 278989.4326
+                },
+                {
+                    "name": "Manganese  And Manganese Compounds",
+                    "value": 146762.13
+                },
+                {
+                    "name": "Sulfuric acid (acid aerosols including mists, vapors, gas, fog, and other airborne forms of any particle size)",
+                    "value": 107476
+                },
+                {
+                    "name": "Chromium compounds (except for chromite ore mined in the Transvaal Region)",
+                    "value": 105774.14
+                },
+                {
+                    "name": "Styrene",
+                    "value": 33161
+                },
+                {
+                    "name": "Hydrochloric acid (acid aerosols including mists, vapors, gas, fog, and other airborne forms of any particle size)",
+                    "value": 26995.7
+                }
+            ]
+        },
+        {
+            "name": "Other",
+            "children": [
+                {
+                    "name": "Ethylene glycol",
+                    "value": 1620379
+                },
+                {
+                    "name": "Ethylene oxide",
+                    "value": 963919.74
+                },
+                {
+                    "name": "Lead  And Lead Compounds",
+                    "value": 660693.4999999999
+                },
+                {
+                    "name": "Copper",
+                    "value": 620632
+                },
+                {
+                    "name": "Nitrate compounds (water dissociable; reportable only when in aqueous solution)",
+                    "value": 216818.233
+                },
+                {
+                    "name": "Lead",
+                    "value": 125060.61170000001
+                },
+                {
+                    "name": "Methyl isobutyl ketone",
+                    "value": 38869
+                },
+                {
+                    "name": "Sulfuryl fluoride",
+                    "value": 31816.25
+                },
+                {
+                    "name": "Xylene (mixed isomers)",
+                    "value": 10109.519017
+                },
+                {
+                    "name": "Antimony",
+                    "value": 10000
+                }
+            ]
+        },
+        {
+            "name": "Paper",
+            "children": [
+                {
+                    "name": "Ammonia",
+                    "value": 549324
+                },
+                {
+                    "name": "Lead",
+                    "value": 326.92084299999993
+                },
+                {
+                    "name": "Lead compounds",
+                    "value": 182.807
+                }
+            ]
+        },
+        {
+            "name": "Petroleum",
+            "children": [
+                {
+                    "name": "Ammonia",
+                    "value": 37734782
+                },
+                {
+                    "name": "Ethylene glycol",
+                    "value": 14098074.61
+                },
+                {
+                    "name": "Carbonyl sulfide",
+                    "value": 4373802.54
+                },
+                {
+                    "name": "Nitrate compounds (water dissociable; reportable only when in aqueous solution)",
+                    "value": 3560060
+                },
+                {
+                    "name": "Cresol (mixed isomers)",
+                    "value": 2148975.9269999997
+                },
+                {
+                    "name": "Propylene",
+                    "value": 1728195
+                },
+                {
+                    "name": "Methanol",
+                    "value": 1558159
+                },
+                {
+                    "name": "Diethanolamine",
+                    "value": 1166434
+                },
+                {
+                    "name": "Hydrogen sulfide",
+                    "value": 1150592.69
+                },
+                {
+                    "name": "Hydrogen cyanide",
+                    "value": 1091605
+                },
+                {
+                    "name": "Carbon disulfide",
+                    "value": 1083384.43
+                },
+                {
+                    "name": "Hydrochloric acid (acid aerosols including mists, vapors, gas, fog, and other airborne forms of any particle size)",
+                    "value": 1061435.267
+                },
+                {
+                    "name": "Xylene (mixed isomers)",
+                    "value": 649307.721
+                },
+                {
+                    "name": "Phenol",
+                    "value": 616683.04
+                },
+                {
+                    "name": "Toluene",
+                    "value": 598335.8219999999
+                },
+                {
+                    "name": "n-Hexane",
+                    "value": 523193.7
+                },
+                {
+                    "name": "Zinc compounds",
+                    "value": 492364.03500000003
+                },
+                {
+                    "name": "Nickel compounds",
+                    "value": 394273.61
+                },
+                {
+                    "name": "Ethylene",
+                    "value": 360446.53
+                },
+                {
+                    "name": "Acetonitrile",
+                    "value": 323985.11018
+                },
+                {
+                    "name": "1,2,4-Trimethylbenzene",
+                    "value": 287857.67
+                },
+                {
+                    "name": "Sulfuric acid (acid aerosols including mists, vapors, gas, fog, and other airborne forms of any particle size)",
+                    "value": 272845.3
+                },
+                {
+                    "name": "Benzene",
+                    "value": 266659.23400000005
+                },
+                {
+                    "name": "Vanadium compounds",
+                    "value": 213103
+                }
+            ]
+        },
+        {
+            "name": "Petroleum Bulk Terminals",
+            "children": [
+                {
+                    "name": "n-Hexane",
+                    "value": 518108.90358
+                },
+                {
+                    "name": "Toluene",
+                    "value": 472349.1719699999
+                },
+                {
+                    "name": "Cyclohexane",
+                    "value": 210577.87863999998
+                },
+                {
+                    "name": "Benzene",
+                    "value": 197062.36764
+                },
+                {
+                    "name": "Xylene (mixed isomers)",
+                    "value": 139938.87475
+                },
+                {
+                    "name": "Ethylbenzene",
+                    "value": 33654.2524
+                },
+                {
+                    "name": "Ethylene",
+                    "value": 21086
+                },
+                {
+                    "name": "1,2,4-Trimethylbenzene",
+                    "value": 15919.570999999998
+                }
+            ]
+        },
+        {
+            "name": "Plastics and Rubber",
+            "children": [
+                {
+                    "name": "Xylene (mixed isomers)",
+                    "value": 1117598.163
+                },
+                {
+                    "name": "Styrene",
+                    "value": 976975.3500000001
+                },
+                {
+                    "name": "Toluene",
+                    "value": 786754.915
+                },
+                {
+                    "name": "Ethylbenzene",
+                    "value": 190469.88
+                },
+                {
+                    "name": "N,N-Dimethylformamide",
+                    "value": 131597
+                },
+                {
+                    "name": "N-Methyl-2-pyrrolidone",
+                    "value": 53130
+                },
+                {
+                    "name": "Methyl methacrylate",
+                    "value": 46199.5
+                },
+                {
+                    "name": "Certain glycol ethers",
+                    "value": 13716.39
+                }
+            ]
+        },
+        {
+            "name": "Primary Metals",
+            "children": [
+                {
+                    "name": "Zinc compounds",
+                    "value": 3250316.5900000003
+                },
+                {
+                    "name": "Lead  And Lead Compounds",
+                    "value": 1290017.0480000002
+                },
+                {
+                    "name": "Nickel",
+                    "value": 1250160.6861
+                },
+                {
+                    "name": "Hydrochloric acid (acid aerosols including mists, vapors, gas, fog, and other airborne forms of any particle size)",
+                    "value": 937820
+                },
+                {
+                    "name": "Copper",
+                    "value": 624023.515
+                },
+                {
+                    "name": "Xylene (mixed isomers)",
+                    "value": 477876
+                },
+                {
+                    "name": "Antimony  And Antimony Compounds",
+                    "value": 439449.233
+                },
+                {
+                    "name": "Nitric acid",
+                    "value": 400988.1
+                },
+                {
+                    "name": "Chromium",
+                    "value": 392396.79
+                },
+                {
+                    "name": "Cobalt",
+                    "value": 335817.92
+                },
+                {
+                    "name": "Nitrate compounds (water dissociable; reportable only when in aqueous solution)",
+                    "value": 271855.1
+                },
+                {
+                    "name": "Manganese compounds",
+                    "value": 252705.96
+                },
+                {
+                    "name": "Manganese",
+                    "value": 241046.3413
+                },
+                {
+                    "name": "Toluene",
+                    "value": 225968
+                },
+                {
+                    "name": "Ethylbenzene",
+                    "value": 105281
+                },
+                {
+                    "name": "Arsenic  And Arsenic Compounds",
+                    "value": 76759.443
+                },
+                {
+                    "name": "Hydrogen fluoride",
+                    "value": 68329
+                },
+                {
+                    "name": "Ammonia",
+                    "value": 50631.8
+                },
+                {
+                    "name": "Aluminum (fume or dust)",
+                    "value": 45659
+                },
+                {
+                    "name": "Manganese  And Manganese Compounds",
+                    "value": 43563
+                },
+                {
+                    "name": "Chromium compounds (except for chromite ore mined in the Transvaal Region)",
+                    "value": 33287.0436
+                }
+            ]
+        },
+        {
+            "name": "Printing",
+            "children": [
+                {
+                    "name": "Certain glycol ethers",
+                    "value": 12846
+                }
+            ]
+        },
+        {
+            "name": "Textiles",
+            "children": [
+                {
+                    "name": "Toluene",
+                    "value": 190484.57
+                },
+                {
+                    "name": "N,N-Dimethylformamide",
+                    "value": 97918
+                },
+                {
+                    "name": "Xylene (mixed isomers)",
+                    "value": 40195
+                },
+                {
+                    "name": "Ethylbenzene",
+                    "value": 10058.14
+                },
+                {
+                    "name": "Phenol",
+                    "value": 6638
+                },
+                {
+                    "name": "Methanol",
+                    "value": 5578
+                },
+                {
+                    "name": "Formaldehyde",
+                    "value": 1265
+                }
+            ]
+        },
+        {
+            "name": "Transportation Equipment",
+            "children": [
+                {
+                    "name": "Copper",
+                    "value": 1503052.6433
+                },
+                {
+                    "name": "Zinc compounds",
+                    "value": 861842.25
+                },
+                {
+                    "name": "Nitric acid",
+                    "value": 730012.9400000001
+                },
+                {
+                    "name": "Nitrate compounds (water dissociable; reportable only when in aqueous solution)",
+                    "value": 706317
+                },
+                {
+                    "name": "Chromium",
+                    "value": 476000.31000000006
+                },
+                {
+                    "name": "Hydrogen fluoride",
+                    "value": 440517.273
+                },
+                {
+                    "name": "Certain glycol ethers",
+                    "value": 421347.57
+                },
+                {
+                    "name": "Nickel  And Nickel Compounds",
+                    "value": 360221.74000000005
+                },
+                {
+                    "name": "n-Butyl alcohol",
+                    "value": 298364.29000000004
+                },
+                {
+                    "name": "Phenol",
+                    "value": 278344
+                },
+                {
+                    "name": "Tetrachloroethylene",
+                    "value": 266431
+                },
+                {
+                    "name": "Ethylene glycol",
+                    "value": 224309.3
+                },
+                {
+                    "name": "1,2,4-Trimethylbenzene",
+                    "value": 192692.53
+                },
+                {
+                    "name": "Styrene",
+                    "value": 191552
+                },
+                {
+                    "name": "Nickel",
+                    "value": 182183.98249999998
+                },
+                {
+                    "name": "Xylene (mixed isomers)",
+                    "value": 142448
+                },
+                {
+                    "name": "4,4'-Isopropylidenediphenol",
+                    "value": 84873.75
+                },
+                {
+                    "name": "Methanol",
+                    "value": 82260
+                },
+                {
+                    "name": "Ethylbenzene",
+                    "value": 64167.92
+                }
+            ]
+        },
+        {
+            "name": "Wood Products",
+            "children": [
+                {
+                    "name": "Ammonia",
+                    "value": 59228
+                },
+                {
+                    "name": "Phenol",
+                    "value": 1469.5
+                }
+            ]
+        }
+    ]
+}
