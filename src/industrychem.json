@@ -9,7 +9,7 @@
                     "value": 200784.5107
                 },
                 {
-                    "name": "Nitrate compounds (water dissociable; reportable only when in aqueous solution)",
+                    "name": "Nitrate compounds",
                     "value": 182195
                 },
                 {
@@ -91,7 +91,7 @@
                     "value": 1261687.1
                 },
                 {
-                    "name": "Hydrochloric acid (acid aerosols including mists, vapors, gas, fog, and other airborne forms of any particle size)",
+                    "name": "Hydrochloric acid",
                     "value": 1138419
                 },
                 {
@@ -123,7 +123,7 @@
                     "value": 418241
                 },
                 {
-                    "name": "Nitrate compounds (water dissociable; reportable only when in aqueous solution)",
+                    "name": "Nitrate compounds",
                     "value": 278511.19
                 },
                 {
@@ -156,7 +156,7 @@
                     "value": 531821.6699999999
                 },
                 {
-                    "name": "Sulfuric acid (acid aerosols including mists, vapors, gas, fog, and other airborne forms of any particle size)",
+                    "name": "Sulfuric acid",
                     "value": 445975.22
                 },
                 {
@@ -164,7 +164,7 @@
                     "value": 387898.49500000005
                 },
                 {
-                    "name": "Nitrate compounds (water dissociable; reportable only when in aqueous solution)",
+                    "name": "Nitrate compounds",
                     "value": 385661.76
                 },
                 {
@@ -230,7 +230,7 @@
                     "value": 728720.27
                 },
                 {
-                    "name": "Nitrate compounds (water dissociable; reportable only when in aqueous solution)",
+                    "name": "Nitrate compounds",
                     "value": 166965
                 }
             ]
@@ -267,7 +267,7 @@
                     "value": 1021739.6
                 },
                 {
-                    "name": "Nitrate compounds (water dissociable; reportable only when in aqueous solution)",
+                    "name": "Nitrate compounds",
                     "value": 828384.0120000001
                 },
                 {
@@ -292,7 +292,7 @@
             "name": "Food",
             "children": [
                 {
-                    "name": "Nitrate compounds (water dissociable; reportable only when in aqueous solution)",
+                    "name": "Nitrate compounds",
                     "value": 23151669.4
                 },
                 {
@@ -427,7 +427,7 @@
                     "value": 198023.42430200003
                 },
                 {
-                    "name": "Chromium  and Chromium Compounds(except for chromite ore mined in the Transvaal Region)",
+                    "name": "Chromium  and Chromium Compounds",
                     "value": 176516.05
                 },
                 {
@@ -468,7 +468,7 @@
                     "value": 2301
                 },
                 {
-                    "name": "Nitrate compounds (water dissociable; reportable only when in aqueous solution)",
+                    "name": "Nitrate compounds",
                     "value": 1002
                 }
             ]
@@ -518,11 +518,11 @@
                     "value": 146762.13
                 },
                 {
-                    "name": "Sulfuric acid (acid aerosols including mists, vapors, gas, fog, and other airborne forms of any particle size)",
+                    "name": "Sulfuric acid",
                     "value": 107476
                 },
                 {
-                    "name": "Chromium compounds (except for chromite ore mined in the Transvaal Region)",
+                    "name": "Chromium compounds",
                     "value": 105774.14
                 },
                 {
@@ -530,7 +530,7 @@
                     "value": 33161
                 },
                 {
-                    "name": "Hydrochloric acid (acid aerosols including mists, vapors, gas, fog, and other airborne forms of any particle size)",
+                    "name": "Hydrochloric acid",
                     "value": 26995.7
                 }
             ]
@@ -555,7 +555,7 @@
                     "value": 620632
                 },
                 {
-                    "name": "Nitrate compounds (water dissociable; reportable only when in aqueous solution)",
+                    "name": "Nitrate compounds",
                     "value": 216818.233
                 },
                 {
@@ -613,7 +613,7 @@
                     "value": 4373802.54
                 },
                 {
-                    "name": "Nitrate compounds (water dissociable; reportable only when in aqueous solution)",
+                    "name": "Nitrate compounds",
                     "value": 3560060
                 },
                 {
@@ -645,7 +645,7 @@
                     "value": 1083384.43
                 },
                 {
-                    "name": "Hydrochloric acid (acid aerosols including mists, vapors, gas, fog, and other airborne forms of any particle size)",
+                    "name": "Hydrochloric acid",
                     "value": 1061435.267
                 },
                 {
@@ -685,7 +685,7 @@
                     "value": 287857.67
                 },
                 {
-                    "name": "Sulfuric acid (acid aerosols including mists, vapors, gas, fog, and other airborne forms of any particle size)",
+                    "name": "Sulfuric acid",
                     "value": 272845.3
                 },
                 {
@@ -788,7 +788,7 @@
                     "value": 1250160.6861
                 },
                 {
-                    "name": "Hydrochloric acid (acid aerosols including mists, vapors, gas, fog, and other airborne forms of any particle size)",
+                    "name": "Hydrochloric acid",
                     "value": 937820
                 },
                 {
@@ -816,7 +816,7 @@
                     "value": 335817.92
                 },
                 {
-                    "name": "Nitrate compounds (water dissociable; reportable only when in aqueous solution)",
+                    "name": "Nitrate compounds",
                     "value": 271855.1
                 },
                 {
@@ -856,7 +856,7 @@
                     "value": 43563
                 },
                 {
-                    "name": "Chromium compounds (except for chromite ore mined in the Transvaal Region)",
+                    "name": "Chromium compounds",
                     "value": 33287.0436
                 }
             ]
@@ -919,7 +919,7 @@
                     "value": 730012.9400000001
                 },
                 {
-                    "name": "Nitrate compounds (water dissociable; reportable only when in aqueous solution)",
+                    "name": "Nitrate compounds",
                     "value": 706317
                 },
                 {
