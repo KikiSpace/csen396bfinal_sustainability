@@ -36,7 +36,7 @@ const Header = () => {
       }`}
     >
     <div className="flex items-center my-2 px-5 lg:px-7.5 xl:px-10 max-lg:py-4">
-      <a className="block w-[12rem] xl:mr-8" href="#sustainability">
+      <a className="block w-[12rem] xl:mr-8" href="#landing">
         <img src={icon} width={40} height={20} alt="logo"/>
       </a>
       <nav className={`${
@@ -59,7 +59,7 @@ const Header = () => {
         </div>
         <HamburgerMenu />
       </nav>
-      <Button className="hidden lg:flex" href="#data">
+      <Button className="hidden lg:flex" href="https://catalog.data.gov/dataset/toxics-release-inventory-tri">
           Our Data
         </Button>
         <Button

@@ -44,6 +44,27 @@ export const navigation = [
       backgroundUrl: "./src/assets/benefits/card-1.svg",
       iconUrl: chemicalIcon,
       imageUrl: chemicalbg,
+      "source": {
+        "title": "Source",
+        "content": "Ammonia Source is xxxxxxxxxx"
+      },
+      "ex_route": {
+        "title": "Exposure Route",
+        "content": "Ammonia Exposure Route is xxxxxxxxxx"
+      },
+      "exposure": {
+        "title": "Exposure",
+        "content": "Ammonia Exposure is xxxxxxxxxx"
+      },
+      "symptoms": {
+        "title": "Symptoms",
+        "content": "Ammonia Symptoms is xxxxxxxxxx"
+      },
+      "treatment": {
+        "title": "Treatment",
+        "content": "Ammonia Treatment is xxxxxxxxxx"
+      }
+
     },
     {
       id: "1",
@@ -53,7 +74,27 @@ export const navigation = [
       backgroundUrl: "./src/assets/benefits/card-2.svg",
       iconUrl: chemicalIcon,
       imageUrl: chemicalbg,
-      light: true,
+      "source": {
+        "title": "Source",
+        "content": "Nitric Acid Source is xxxxxxxxxx"
+      },
+      "ex_route": {
+        "title": "Exposure Route",
+        "content": "Nitric Acid Exposure Route is xxxxxxxxxx"
+      },
+      "exposure": {
+        "title": "Exposure",
+        "content": "Nitric Acid Exposure is xxxxxxxxxx"
+      },
+      "symptoms": {
+        "title": "Symptoms",
+        "content": "Nitric Acid Symptoms is xxxxxxxxxx"
+      },
+      "treatment": {
+        "title": "Treatment",
+        "content": "Nitric Acid Treatment is xxxxxxxxxx"
+      }
+      
     },
     {
       id: "2",
@@ -63,6 +104,26 @@ export const navigation = [
       backgroundUrl: "./src/assets/benefits/card-3.svg",
       iconUrl: chemicalIcon,
       imageUrl: chemicalbg,
+      "source": {
+        "title": "Source",
+        "content": "Ethylene Glycol Source is xxxxxxxxxx"
+      },
+      "ex_route": {
+        "title": "Exposure Route",
+        "content": "Ethylene Glycol Exposure Route is xxxxxxxxxx"
+      },
+      "exposure": {
+        "title": "Exposure",
+        "content": "Ethylene Glycol Exposure is xxxxxxxxxx"
+      },
+      "symptoms": {
+        "title": "Symptoms",
+        "content": "Ethylene Glycol Symptoms is xxxxxxxxxx"
+      },
+      "treatment": {
+        "title": "Treatment",
+        "content": "Ethylene Glycol Treatment is xxxxxxxxxx"
+      }
     },
     {
       id: "3",
@@ -73,6 +134,26 @@ export const navigation = [
       iconUrl: chemicalIcon,
       imageUrl: chemicalbg,
       light: true,
+      "source": {
+        "title": "Source",
+        "content": "Lead Compounds Source is xxxxxxxxxx"
+      },
+      "ex_route": {
+        "title": "Exposure Route",
+        "content": "Lead Compounds Exposure Route is xxxxxxxxxx"
+      },
+      "exposure": {
+        "title": "Exposure",
+        "content": "Lead Compounds Exposure is xxxxxxxxxx"
+      },
+      "symptoms": {
+        "title": "Symptoms",
+        "content": "Lead Compounds Symptoms is xxxxxxxxxx"
+      },
+      "treatment": {
+        "title": "Treatment",
+        "content": "Lead Compounds Treatment is xxxxxxxxxx"
+      }
     },
     {
       id: "4",
@@ -82,6 +163,26 @@ export const navigation = [
       backgroundUrl: "./src/assets/benefits/card-5.svg",
       iconUrl: chemicalIcon,
       imageUrl: chemicalbg,
+      "source": {
+        "title": "Source",
+        "content": "Toleune source is xxxxxxxxxx"
+      },
+      "ex_route": {
+        "title": "Exposure Route",
+        "content": "Toleune ex route is xxxxxxxxxx"
+      },
+      "exposure": {
+        "title": "Exposure",
+        "content": "Toleune exposure is xxxxxxxxxx"
+      },
+      "symptoms": {
+        "title": "Symptoms",
+        "content": "Toleune symtoms is xxxxxxxxxx"
+      },
+      "treatment": {
+        "title": "Treatment",
+        "content": "Toleune is treatment xxxxxxxxxx"
+      }
     },
     {
       id: "5",
@@ -91,6 +192,26 @@ export const navigation = [
       backgroundUrl: "./src/assets/benefits/card-6.svg",
       iconUrl: chemicalIcon,
       imageUrl: chemicalbg,
+      "source": {
+        "title": "Source",
+        "content": "Methanol Source is xxxxxxxxxx"
+      },
+      "ex_route": {
+        "title": "Exposure Route",
+        "content": "Methanol Exposure Route is xxxxxxxxxx"
+      },
+      "exposure": {
+        "title": "Exposure",
+        "content": "Methanol Exposure is xxxxxxxxxx"
+      },
+      "symptoms": {
+        "title": "Symptoms",
+        "content": "Methanol Symptoms is xxxxxxxxxx"
+      },
+      "treatment": {
+        "title": "Treatment",
+        "content": "Methanol Treatment is xxxxxxxxxx"
+      }
     },
   ];
 
@@ -106,4 +227,9 @@ export const navigation = [
     disc02,
     chromecast,
     sliders04,
+    sliders04,
   ];
+
+  export const chemicalCardInfo = ["source", "ex_route", "exposure", "symptoms","treatment"]
+  export const chemicalCategories = {"0": "Ammonia", "1": "Nitric Acid", "2": "Ethylene Glycol", "3": "Lead Compounds", "4": "Toleune", "5": "Methanol"}
+  export const chemicalCardMatchTitle = {"source": "Source", "ex_route": "Exposure Route", "exposure": "Exposure", "symptoms": "Symptoms", "treatment": "Treatment"}

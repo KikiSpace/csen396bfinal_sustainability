@@ -15,7 +15,7 @@ const Landing = () => {
     crosses
     crossesOffset="lg:translate-y-[5.25rem]"
     customPaddings
-    id="map">
+    id="landing">
       <div className="container relative" ref={parallaxRef}>
       <div className="relative z-1 max-w-[62rem] mx-auto text-center mb-[3.875rem] md:mb-20 lg:mb-[6.25rem]">
       <h1 className="h1 mb-6">
@@ -27,7 +27,7 @@ const Landing = () => {
           <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
           The United States manages upwards of 35 million tons of hazardous chemicals per year for production and manufacturing, and Californian facilities alone manage over 10 million tons of chemicals a year. 
           </p>
-          <Button href="/map" white>
+          <Button href="#map" white>
             Explore Your Area
           </Button>
       </div>
