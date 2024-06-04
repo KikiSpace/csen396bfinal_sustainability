@@ -7,6 +7,8 @@ import ClipPath from "../assets/svg/ClipPath"
 import { chartTitles, chartholderIcons, chemicalCardInfo, chemicalCategories, chemicalCardMatchTitle } from "../constants"
 import chemicalbg from "../assets/ChemicalsInfo/chemical.jpg"
 import { useState } from "react"
+import { BarGraph } from "./charts/Bar"
+import { RadarGraph } from "./charts/RadarChart"
 
 
 const ChemicalsInfo = () => {
@@ -113,7 +115,10 @@ const ChemicalsInfo = () => {
                       height={400}
                       alt="Scary robot"
                     /> */}
-                    {currentSubInfo.content}
+                    {currentSubInfo.content} 
+                    <BarGraph/>
+                    
+                    
                   </div>
                 </div>
             </div>
