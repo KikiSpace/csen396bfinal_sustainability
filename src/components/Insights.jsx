@@ -3,7 +3,6 @@ import Heading from "./Heading"
 import chartholder from "../assets/Insights/service-1.png"
 import check from "../assets/Insights/check.svg"
 import { chartTitles, chartholderIcons } from "../constants"
-import Notebook from "./Hierarchical"
 import {
     PhotoChatMessage,
     Gradient,
@@ -18,8 +17,8 @@ const Insights = () => {
         <Section id="insights">
           <div className="container">
             <Heading
-              title="Top 3 Chemicals Insights"
-              text="data insights for toxic chemicals produced by industry from 1987 - 2023."
+              title="Industry Produced Chemicals"
+              text="Click on each bar or industry name to see which chemicals that industry produces and their amounts. Click the background to move back up."
             />
 
 <iframe width="100%" height="594" frameborder="1"
