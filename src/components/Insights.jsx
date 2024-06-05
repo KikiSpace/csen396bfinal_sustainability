@@ -17,7 +17,7 @@ import { RadarGraph } from "./charts/RadarChart.jsx"
 const Insights = () => {
     return (
         <Section id="insights">
-          <div className="container w-screen h-screen">
+          <div className="container w-screen min-h-screen">
             <Heading
               title="Top 3 Chemicals Insights"
               text="data insights for toxic chemicals produced by industry from 1987 - 2023."

@@ -50,7 +50,7 @@ const ChemicalsInfo = () => {
 
     return (
         <Section id="chemicals">
-          <div className="container relative z-2 w-screen h-screen">
+          <div className="container relative z-2 w-screen min-h-screen">
             <Heading
               className="md:max-w-md lg:max-w-2xl"
               title="Toxic chemicals are everywhere"
