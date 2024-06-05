@@ -1,16 +1,8 @@
-<<<<<<< HEAD
-import Section from "./Section";
-import Heading from "./Heading";
-import chartholder from "../assets/Insights/service-1.png";
-import check from "../assets/Insights/check.svg";
-import { chartTitles, chartholderIcons } from "../constants";
-=======
 import Section from "./Section" 
 import Heading from "./Heading"
 import chartholder from "../assets/Insights/service-1.png"
 import check from "../assets/Insights/check.svg"
 import { chartTitles, chartholderIcons } from "../constants"
->>>>>>> 3104a6a (updated some titles)
 import {
   PhotoChatMessage,
   Gradient,
@@ -21,27 +13,6 @@ import {
 import Generating from "./Generating.jsx";
 
 const Insights = () => {
-<<<<<<< HEAD
-  return (
-    <Section id="insights">
-      <div className="container">
-        <Heading
-          title="Top 3 Chemicals Insights"
-          text="data insights for toxic chemicals produced by industry from 1987 - 2023."
-        />
-        <div>
-          <iframe
-            width="100%"
-            height="594"
-            src="https://observablehq.com/embed/8cafda7de076e39f?cells=chart&banner=false"
-            style={{ border: "none" }}
-          ></iframe>
-        </div>
-        <div className="relative">
-          <div className="relative z-1 flex items-center h-[39rem] mb-5 p-8 border border-n-1/10 rounded-3xl overflow-hidden lg:p-20 xl:h-[46rem]">
-            <div className="absolute top-0 left-0 w-full h-full pointer-events-none md:w-3/5 xl:w-auto">
-              {/* <img
-=======
     return (
         <Section id="insights">
           <div className="container">
@@ -56,7 +27,6 @@ const Insights = () => {
               <div className="relative z-1 flex items-center h-[39rem] mb-5 p-8 border border-n-1/10 rounded-3xl overflow-hidden lg:p-20 xl:h-[46rem]">
                 <div className="absolute top-0 left-0 w-full h-full pointer-events-none md:w-3/5 xl:w-auto">
                   {/* <img
->>>>>>> 6f6fc25 (updated json + graph)
                     className="w-full h-full object-cover md:object-right"
                     width={800}
                     alt="Smartest AI"
