@@ -4,7 +4,7 @@ const Map = () => {
   return (
     <div>
       <Section id="map">
-          <div className="container relative z-2">
+          <div className="container relative z-2 w-screen h-screen">
             <Heading
               className="md:max-w-md lg:max-w-2xl"
               title="Toxic Heat Map Over Years"

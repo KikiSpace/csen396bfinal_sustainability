@@ -232,4 +232,4 @@ export const navigation = [
 
   export const chemicalCardInfo = ["source", "ex_route", "exposure", "symptoms","treatment"]
   export const chemicalCategories = {"0": "Ammonia", "1": "Nitric Acid", "2": "Ethylene Glycol", "3": "Lead Compounds", "4": "Toleune", "5": "Methanol"}
-  export const chemicalCardMatchTitle = {"source": "Source", "ex_route": "Exposure Route", "exposure": "Exposure", "symptoms": "Symptoms", "treatment": "Treatment"}
+  export const chemicalCardMatchTitle = {"source": "Source", "ex_route": "Exposure Route", "exposure": "Level of Exposure", "symptoms": "Symptoms", "treatment": "Treatment"}
