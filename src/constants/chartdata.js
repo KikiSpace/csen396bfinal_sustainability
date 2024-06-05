@@ -1,17 +1,42 @@
 export const lineChartData = {
-    labels: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'],
+    labels: ["1991", "1992", "1993", "1994", "1995", "1996", "1997", "1998", "1999", "2000", "2001", "2002", "2003", "2004", "2005", "2006", "2007", "2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015" ,"2016", "2017", "2018", "2019", "2020", "2021", "2022"],
     datasets: [
         {
-            label: "Steps by Xinqi",
-            data: [3000, 4000, 5000, 6000, 7000, 8000, 9000],
+            label: "Percentage of Facilities That Reported Decreased Production Waste Compared to the Previous Year",
+            data: [0.398904463,
+                0.401477833,
+                0.35896467,
+                0.929750317,
+                0.328434647,
+                0.275307474,
+                0.250119104,
+                0.372340426,
+                0.361929151,
+                0.383825944,
+                0.458778626,
+                0.41584951,
+                0.381265407,
+                0.351875533,
+                0.415758592,
+                0.434179646,
+                0.388381927,
+                0.437660219,
+                0.47310757,
+                0.340096373,
+                0.308322663,
+                0.324816595,
+                0.310552764,
+                0.372573733,
+                0.340414508,
+                0.3783285,
+                0.317447917,
+                0.311330561,
+                0.39273493,
+                0.626841244,
+                0.392877173,
+                0.451327434],
             borderColor: "rgb(75, 192, 192)",
-        },
-        {
-            label: "Steps by Jazz",
-            data: [2000, 7000, 4000, 1000, 7700, 8000, 5000],
-            borderColor: "violet",
         }
-
     ]
 }
 
@@ -198,87 +223,153 @@ export const barChartData = [
 
 export const radarChartData = [
     {
-        id: 0,
-        chemical: "Ammonia",
-        labels: ["Benson Center","facilities", "Graham", "Learning Commons", "Malley", "Swig", "University Villas", "Vari Hall and Lucas Hall"],
-        datasets: [
-            {
-                label: "Total Weight of Waste (lbs)",
-                data: [1230, 239, 233, 98, 677, 313, 310, 380],
-                backgroundColor: "rgba(255, 99, 132, 0.2)",
-                borderColor: "rgba(255, 99, 132, 1)",
-                borderwidth: 1
-            }
-        ]
-    },
-    {
-        id: 1,
-        chemical: "Ethylene Glycol",
-        labels: ["Benson Center","facilities", "Graham", "Learning Commons", "Malley", "Swig", "University Villas", "Vari Hall and Lucas Hall"],
-        datasets: [
-            {
-                label: "Total Weight of Waste (lbs)",
-                data: [1230, 239, 233, 98, 677, 313, 310, 380],
-                backgroundColor: "rgba(255, 99, 132, 0.2)",
-                borderColor: "rgba(255, 99, 132, 1)",
-                borderwidth: 1
-            }
-        ]
-    },
-    {
-        id: 2,
-        chemical: "Nitric Acid",
-        labels: ["Benson Center","facilities", "Graham", "Learning Commons", "Malley", "Swig", "University Villas", "Vari Hall and Lucas Hall"],
-        datasets: [
-            {
-                label: "Total Weight of Waste (lbs)",
-                data: [1230, 239, 233, 98, 677, 313, 310, 380],
-                backgroundColor: "rgba(255, 99, 132, 0.2)",
-                borderColor: "rgba(255, 99, 132, 1)",
-                borderwidth: 1
-            }
-        ]
-    },
-    {
-        id: 3,
-        chemical: "Methanol",
-        labels: ["Benson Center","facilities", "Graham", "Learning Commons", "Malley", "Swig", "University Villas", "Vari Hall and Lucas Hall"],
-        datasets: [
-            {
-                label: "Total Weight of Waste (lbs)",
-                data: [1230, 239, 233, 98, 677, 313, 310, 380],
-                backgroundColor: "rgba(255, 99, 132, 0.2)",
-                borderColor: "rgba(255, 99, 132, 1)",
-                borderwidth: 1
-            }
-        ]
-    },
-    {
-        id: 4,
-        chemical: "Ammonia",
-        labels: ["Benson Center","facilities", "Graham", "Learning Commons", "Malley", "Swig", "University Villas", "Vari Hall and Lucas Hall"],
-        datasets: [
-            {
-                label: "Total Weight of Waste (lbs)",
-                data: [1230, 239, 233, 98, 677, 313, 310, 380],
-                backgroundColor: "rgba(255, 99, 132, 0.2)",
-                borderColor: "rgba(255, 99, 132, 1)",
-                borderwidth: 1
-            }
-        ]
-    },
-    {
-        id: 5,
-        chemical: "Ammonia",
-        labels: ["Benson Center","facilities", "Graham", "Learning Commons", "Malley", "Swig", "University Villas", "Vari Hall and Lucas Hall"],
-        datasets: [
-            {
-                label: "Total Weight of Waste (lbs)",
-                data: [1230, 239, 233, 98, 677, 313, 310, 380],
-                backgroundColor: "rgba(255, 99, 132, 0.2)",
-                borderColor: "rgba(255, 99, 132, 1)",
-                borderwidth: 1
-            }
-        ]
-    }
-]
+    chemical: "Ammonia",
+    labels: ["OTHER", "BODY_WEIGHT", "CARDIOVASCULAR", "DERMAL", "DEVELOPMENTAL", "ENDOCRINE", "GASTROINTESTINAL", "HEMATOLOGICAL", "HEPATIC", "IMMUNOLOGICAL", "METABOLIC", "MUSCULOSKELETAL", "NEUROLOGICAL", "OCULAR", "OTHER_SYSTEMIC", "RENAL", "REPRODUCTIVE", "RESPIRATORY", "NO_HEALTH_EFFECTS", "ACUTE", "INTERMEDIATE", "CHRONIC"],
+    datasets: [{
+      label: 'My First Dataset',
+      data: [65, 59, 90, 81, 56, 55, 40],
+      fill: true,
+      backgroundColor: 'rgba(255, 99, 132, 0.2)',
+      borderColor: 'rgb(255, 99, 132)',
+      pointBackgroundColor: 'rgb(255, 99, 132)',
+      pointBorderColor: '#fff',
+      pointHoverBackgroundColor: '#fff',
+      pointHoverBorderColor: 'rgb(255, 99, 132)'
+    }, {
+      label: 'My Second Dataset',
+      data: [28, 48, 40, 19, 96, 27, 100],
+      fill: true,
+      backgroundColor: 'rgba(54, 162, 235, 0.2)',
+      borderColor: 'rgb(54, 162, 235)',
+      pointBackgroundColor: 'rgb(54, 162, 235)',
+      pointBorderColor: '#fff',
+      pointHoverBackgroundColor: '#fff',
+      pointHoverBorderColor: 'rgb(54, 162, 235)'
+    }]
+  },
+  {
+    chemical: "Ammonia",
+    labels: ["OTHER", "BODY_WEIGHT", "CARDIOVASCULAR", "DERMAL", "DEVELOPMENTAL", "ENDOCRINE", "GASTROINTESTINAL", "HEMATOLOGICAL", "HEPATIC", "IMMUNOLOGICAL", "METABOLIC", "MUSCULOSKELETAL", "NEUROLOGICAL", "OCULAR", "OTHER_SYSTEMIC", "RENAL", "REPRODUCTIVE", "RESPIRATORY", "NO_HEALTH_EFFECTS", "ACUTE", "INTERMEDIATE", "CHRONIC"],
+    datasets: [{
+      label: 'My First Dataset',
+      data: [65, 59, 90, 81, 56, 55, 40],
+      fill: true,
+      backgroundColor: 'rgba(255, 99, 132, 0.2)',
+      borderColor: 'rgb(255, 99, 132)',
+      pointBackgroundColor: 'rgb(255, 99, 132)',
+      pointBorderColor: '#fff',
+      pointHoverBackgroundColor: '#fff',
+      pointHoverBorderColor: 'rgb(255, 99, 132)'
+    }, {
+      label: 'My Second Dataset',
+      data: [28, 48, 40, 19, 96, 27, 100],
+      fill: true,
+      backgroundColor: 'rgba(54, 162, 235, 0.2)',
+      borderColor: 'rgb(54, 162, 235)',
+      pointBackgroundColor: 'rgb(54, 162, 235)',
+      pointBorderColor: '#fff',
+      pointHoverBackgroundColor: '#fff',
+      pointHoverBorderColor: 'rgb(54, 162, 235)'
+    }]
+  },
+  {
+    chemical: "Ammonia",
+    labels: ["OTHER", "BODY_WEIGHT", "CARDIOVASCULAR", "DERMAL", "DEVELOPMENTAL", "ENDOCRINE", "GASTROINTESTINAL", "HEMATOLOGICAL", "HEPATIC", "IMMUNOLOGICAL", "METABOLIC", "MUSCULOSKELETAL", "NEUROLOGICAL", "OCULAR", "OTHER_SYSTEMIC", "RENAL", "REPRODUCTIVE", "RESPIRATORY", "NO_HEALTH_EFFECTS", "ACUTE", "INTERMEDIATE", "CHRONIC"],
+    datasets: [{
+      label: 'My First Dataset',
+      data: [65, 59, 90, 81, 56, 55, 40],
+      fill: true,
+      backgroundColor: 'rgba(255, 99, 132, 0.2)',
+      borderColor: 'rgb(255, 99, 132)',
+      pointBackgroundColor: 'rgb(255, 99, 132)',
+      pointBorderColor: '#fff',
+      pointHoverBackgroundColor: '#fff',
+      pointHoverBorderColor: 'rgb(255, 99, 132)'
+    }, {
+      label: 'My Second Dataset',
+      data: [28, 48, 40, 19, 96, 27, 100],
+      fill: true,
+      backgroundColor: 'rgba(54, 162, 235, 0.2)',
+      borderColor: 'rgb(54, 162, 235)',
+      pointBackgroundColor: 'rgb(54, 162, 235)',
+      pointBorderColor: '#fff',
+      pointHoverBackgroundColor: '#fff',
+      pointHoverBorderColor: 'rgb(54, 162, 235)'
+    }]
+  },
+  {
+    chemical: "Ammonia",
+    labels: ["OTHER", "BODY_WEIGHT", "CARDIOVASCULAR", "DERMAL", "DEVELOPMENTAL", "ENDOCRINE", "GASTROINTESTINAL", "HEMATOLOGICAL", "HEPATIC", "IMMUNOLOGICAL", "METABOLIC", "MUSCULOSKELETAL", "NEUROLOGICAL", "OCULAR", "OTHER_SYSTEMIC", "RENAL", "REPRODUCTIVE", "RESPIRATORY", "NO_HEALTH_EFFECTS", "ACUTE", "INTERMEDIATE", "CHRONIC"],
+    datasets: [{
+      label: 'My First Dataset',
+      data: [65, 59, 90, 81, 56, 55, 40],
+      fill: true,
+      backgroundColor: 'rgba(255, 99, 132, 0.2)',
+      borderColor: 'rgb(255, 99, 132)',
+      pointBackgroundColor: 'rgb(255, 99, 132)',
+      pointBorderColor: '#fff',
+      pointHoverBackgroundColor: '#fff',
+      pointHoverBorderColor: 'rgb(255, 99, 132)'
+    }, {
+      label: 'My Second Dataset',
+      data: [28, 48, 40, 19, 96, 27, 100],
+      fill: true,
+      backgroundColor: 'rgba(54, 162, 235, 0.2)',
+      borderColor: 'rgb(54, 162, 235)',
+      pointBackgroundColor: 'rgb(54, 162, 235)',
+      pointBorderColor: '#fff',
+      pointHoverBackgroundColor: '#fff',
+      pointHoverBorderColor: 'rgb(54, 162, 235)'
+    }]
+  },
+  {
+    chemical: "Ammonia",
+    labels: ["OTHER", "BODY_WEIGHT", "CARDIOVASCULAR", "DERMAL", "DEVELOPMENTAL", "ENDOCRINE", "GASTROINTESTINAL", "HEMATOLOGICAL", "HEPATIC", "IMMUNOLOGICAL", "METABOLIC", "MUSCULOSKELETAL", "NEUROLOGICAL", "OCULAR", "OTHER_SYSTEMIC", "RENAL", "REPRODUCTIVE", "RESPIRATORY", "NO_HEALTH_EFFECTS", "ACUTE", "INTERMEDIATE", "CHRONIC"],
+    datasets: [{
+      label: 'My First Dataset',
+      data: [65, 59, 90, 81, 56, 55, 40],
+      fill: true,
+      backgroundColor: 'rgba(255, 99, 132, 0.2)',
+      borderColor: 'rgb(255, 99, 132)',
+      pointBackgroundColor: 'rgb(255, 99, 132)',
+      pointBorderColor: '#fff',
+      pointHoverBackgroundColor: '#fff',
+      pointHoverBorderColor: 'rgb(255, 99, 132)'
+    }, {
+      label: 'My Second Dataset',
+      data: [28, 48, 40, 19, 96, 27, 100],
+      fill: true,
+      backgroundColor: 'rgba(54, 162, 235, 0.2)',
+      borderColor: 'rgb(54, 162, 235)',
+      pointBackgroundColor: 'rgb(54, 162, 235)',
+      pointBorderColor: '#fff',
+      pointHoverBackgroundColor: '#fff',
+      pointHoverBorderColor: 'rgb(54, 162, 235)'
+    }]
+  },
+  {
+    chemical: "Ammonia",
+    labels: ["OTHER", "BODY_WEIGHT", "CARDIOVASCULAR", "DERMAL", "DEVELOPMENTAL", "ENDOCRINE", "GASTROINTESTINAL", "HEMATOLOGICAL", "HEPATIC", "IMMUNOLOGICAL", "METABOLIC", "MUSCULOSKELETAL", "NEUROLOGICAL", "OCULAR", "OTHER_SYSTEMIC", "RENAL", "REPRODUCTIVE", "RESPIRATORY", "NO_HEALTH_EFFECTS", "ACUTE", "INTERMEDIATE", "CHRONIC"],
+    datasets: [{
+      label: 'My First Dataset',
+      data: [65, 59, 90, 81, 56, 55, 40],
+      fill: true,
+      backgroundColor: 'rgba(255, 99, 132, 0.2)',
+      borderColor: 'rgb(255, 99, 132)',
+      pointBackgroundColor: 'rgb(255, 99, 132)',
+      pointBorderColor: '#fff',
+      pointHoverBackgroundColor: '#fff',
+      pointHoverBorderColor: 'rgb(255, 99, 132)'
+    }, {
+      label: 'My Second Dataset',
+      data: [28, 48, 40, 19, 96, 27, 100],
+      fill: true,
+      backgroundColor: 'rgba(54, 162, 235, 0.2)',
+      borderColor: 'rgb(54, 162, 235)',
+      pointBackgroundColor: 'rgb(54, 162, 235)',
+      pointBorderColor: '#fff',
+      pointHoverBackgroundColor: '#fff',
+      pointHoverBorderColor: 'rgb(54, 162, 235)'
+    }]
+  }
+];

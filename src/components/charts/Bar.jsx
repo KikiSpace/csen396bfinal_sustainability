@@ -9,7 +9,7 @@ ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend)
 export const BarGraph = () => {
   const barChartRef = useRef();
   
-    const options = {}
+  const options = {}
  
   return (
       <Bar ref={barChartRef} options={options} data={barChartData}/>
