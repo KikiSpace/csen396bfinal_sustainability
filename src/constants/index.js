@@ -45,24 +45,37 @@ export const navigation = [
       iconUrl: chemicalIcon,
       imageUrl: chemicalbg,
       "source": {
-        "title": "Source",
-        "content": "Ammonia Source is xxxxxxxxxx"
+        "title": "Exposure Source",
+        "content": "Ammonia Source is xxxxxxxxxx",
+        "names": ["Cleaning Products", "Accidental Releases"],
+        "descriptions": ["Ammonia is found in many household cleaning supplies such as window cleaners, toilet cleaners, and furniture polish."
+        , "Accidental releases of ammonia in the farming, industrial, and commericial industries may occur."]
       },
       "ex_route": {
         "title": "Exposure Route",
-        "content": "Ammonia Exposure Route is xxxxxxxxxx"
+        "content": "Ammonia Exposure Route is xxxxxxxxxx",
+        "names": ["Inhalation", "Ingestion", "Dermal", "Eye"],
+        "descriptions": [""]
       },
       "exposure": {
-        "title": "Exposure",
-        "content": "Ammonia Exposure is xxxxxxxxxx"
+        "title": "Level of Exposure",
+        "content": "Ammonia Exposure is xxxxxxxxxx",
+        "names": ["Minimum Risk", "Lethal Risk"],
+        "descriptions": ["Acute Inhalation: 1.7 ppm, Chronic Inhalation: 0.1 ppm", "2500 - 4500 ppm over 30 minutes"]
       },
       "symptoms": {
         "title": "Symptoms",
-        "content": "Ammonia Symptoms is xxxxxxxxxx"
+        "content": "Ammonia Symptoms is xxxxxxxxxx",
+        "names": ["Inhalation/Ingestion", "Dermal", "Eye"],
+        "descriptions": ["Burning, Cough, Sore Throat, Shortness of Breath", "Redness, Pain, Blisters, Skin Burns", "Redness, Pain, Severe Burns"]
       },
       "treatment": {
         "title": "Treatment",
-        "content": "Ammonia Treatment is xxxxxxxxxx"
+        "content": "Ammonia Treatment is xxxxxxxxxx",
+        "names": ["Inhalation/Ingestion", "Dermal", "Eye"],
+        "descriptions": ["Make sure not induce vomiting. Rinse mouth with water and seek medical attention.", 
+        "Rinse affected parts in cold runing water for at least 15 minutes, then wash thoroughly with soap and water.", 
+        "Irrigate opened eyes for several minutes under running water."]
       }
 
     },
@@ -75,24 +88,38 @@ export const navigation = [
       iconUrl: chemicalIcon,
       imageUrl: chemicalbg,
       "source": {
-        "title": "Source",
-        "content": "Nitric Acid Source is xxxxxxxxxx"
+        "title": "Exposure Source",
+        "content": "Nitric Acid Source is xxxxxxxxxx",
+        "names": ["Fertilizer", "Metal Cleaning"],
+        "descriptions": ["Nitric acid is a primary chemical used to make ammonium nitrate fertilizer, useful for pasture and hay fertilization as it is highly soluble and easily absorbed by plants."
+        , "Nitric acid can convert metals to their oxidized forms, and with the right mixture, can be used to clean rust and corrosion off metal items."]
       },
       "ex_route": {
         "title": "Exposure Route",
-        "content": "Nitric Acid Exposure Route is xxxxxxxxxx"
+        "content": "Nitric Acid Exposure Route is xxxxxxxxxx",
+        "names": ["Inhalation/Ingestion", "Dermal", "Eye"],
+        "descriptions": ["Ammonia is found in many household cleaning supplies such as window cleaners, toilet cleaners, and furniture polish."
+        , "Accidental releases of ammonia in the farming, industrial, and commericial industries may occur."]
       },
       "exposure": {
-        "title": "Exposure",
-        "content": "Nitric Acid Exposure is xxxxxxxxxx"
+        "title": "Level of Exposure",
+        "content": "Nitric Acid Exposure is xxxxxxxxxx",
+        "names": ["Minimum Risk", "Lethal Risk"],
+        "descriptions": ["Acute Ingestion: 430 mg/kg", "The lethal dosage of nitric acid is unkown."]
       },
       "symptoms": {
         "title": "Symptoms",
-        "content": "Nitric Acid Symptoms is xxxxxxxxxx"
+        "content": "Nitric Acid Symptoms is xxxxxxxxxx",
+        "names": ["Inhalation/Ingestion", "Dermal", "Eye"],
+        "descriptions": ["Burning Sensation in Mouth and Throat, Abdominal Pain, Vomiting", "Pain, Yellow Staining of Skin, Skin Burns",
+        , "Redness, Severe Burns"]
       },
       "treatment": {
         "title": "Treatment",
-        "content": "Nitric Acid Treatment is xxxxxxxxxx"
+        "content": "Nitric Acid Treatment is xxxxxxxxxx",
+        "names": ["Inhalation/Ingestion", "Dermal", "Eye"],
+        "descriptions": ["Quickly seek medical attention, providing information for amount inhaled/ingested.", "Wash affected area with water.",
+        "Immediately flush contaminated eyes with copious amounts of gently flowing water."]
       }
       
     },
@@ -105,24 +132,37 @@ export const navigation = [
       iconUrl: chemicalIcon,
       imageUrl: chemicalbg,
       "source": {
-        "title": "Source",
-        "content": "Ethylene Glycol Source is xxxxxxxxxx"
+        "title": "Exposure Source",
+        "content": "Ethylene Glycol Source is xxxxxxxxxx",
+        "names": ["Coolant/Antifreeze Products", "Plastics"],
+        "descriptions": ["Ethylene glycol is a primary chemical used to make coolant or antifreeze found in autombiles and computer systems."
+        , "Ethylene glycol has become an important chemical for the plastics industry for the manufacturing of polyester fibers and resins, such as polyethylene terephthalate, which is used in soft drink plastic bottles."]
       },
       "ex_route": {
         "title": "Exposure Route",
-        "content": "Ethylene Glycol Exposure Route is xxxxxxxxxx"
+        "content": "Ethylene Glycol Exposure Route is xxxxxxxxxx",
+        "names": ["Inhalation/Ingestion", "Dermal", "Eye"],
+        "descriptions": [""]
       },
       "exposure": {
-        "title": "Exposure",
-        "content": "Ethylene Glycol Exposure is xxxxxxxxxx"
+        "title": "Level of Exposure",
+        "content": "Ethylene Glycol Exposure is xxxxxxxxxx",
+        "names": ["Minimum Risk", "Lethal Risk"],
+        "descriptions": ["Acute Inhalation: 2 mg/m3, Acute Oral: 0.8 mg/kg/day.", "The lethal dosage of ethylene glycol is unknown."]
       },
       "symptoms": {
         "title": "Symptoms",
-        "content": "Ethylene Glycol Symptoms is xxxxxxxxxx"
+        "content": "Ethylene Glycol Symptoms is xxxxxxxxxx",
+        "names": ["Inhalation/Ingestion", "Dermal", "Eye"],
+        "descriptions": ["Ammonia is found in many household cleaning supplies such as window cleaners, toilet cleaners, and furniture polish."
+        , "Accidental releases of ammonia in the farming, industrial, and commericial industries may occur."]
       },
       "treatment": {
         "title": "Treatment",
-        "content": "Ethylene Glycol Treatment is xxxxxxxxxx"
+        "content": "Ethylene Glycol Treatment is xxxxxxxxxx",
+        "names": ["Inhalation/Ingestion", "Dermal", "Eye"],
+        "descriptions": ["Ammonia is found in many household cleaning supplies such as window cleaners, toilet cleaners, and furniture polish."
+        , "Accidental releases of ammonia in the farming, industrial, and commericial industries may occur."]
       }
     },
     {
@@ -135,24 +175,39 @@ export const navigation = [
       imageUrl: chemicalbg,
       light: true,
       "source": {
-        "title": "Source",
-        "content": "Lead Compounds Source is xxxxxxxxxx"
+        "title": "Exposure Source",
+        "content": "Lead Compounds Source is xxxxxxxxxx",
+        "names": ["Cleaning Products", "Accidental Releases"],
+        "descriptions": ["Ammonia is found in many household cleaning supplies such as window cleaners, toilet cleaners, and furniture polish."
+        , "Accidental releases of ammonia in the farming, industrial, and commericial industries may occur."]
       },
       "ex_route": {
         "title": "Exposure Route",
-        "content": "Lead Compounds Exposure Route is xxxxxxxxxx"
+        "content": "Lead Compounds Exposure Route is xxxxxxxxxx",
+        "names": ["Inhalation/Ingestion", "Dermal", "Eye"],
+        "descriptions": ["Ammonia is found in many household cleaning supplies such as window cleaners, toilet cleaners, and furniture polish."
+        , "Accidental releases of ammonia in the farming, industrial, and commericial industries may occur."]
       },
       "exposure": {
-        "title": "Exposure",
-        "content": "Lead Compounds Exposure is xxxxxxxxxx"
+        "title": "Level of Exposure",
+        "content": "Lead Compounds Exposure is xxxxxxxxxx",
+        "names": ["Minimum Risk", "Lethal Risk"],
+        "descriptions": ["Ammonia is found in many household cleaning supplies such as window cleaners, toilet cleaners, and furniture polish."
+        , "Accidental releases of ammonia in the farming, industrial, and commericial industries may occur."]
       },
       "symptoms": {
         "title": "Symptoms",
-        "content": "Lead Compounds Symptoms is xxxxxxxxxx"
+        "content": "Lead Compounds Symptoms is xxxxxxxxxx",
+        "names": ["Inhalation/Ingestion", "Dermal", "Eye"],
+        "descriptions": ["Ammonia is found in many household cleaning supplies such as window cleaners, toilet cleaners, and furniture polish."
+        , "Accidental releases of ammonia in the farming, industrial, and commericial industries may occur."]
       },
       "treatment": {
         "title": "Treatment",
-        "content": "Lead Compounds Treatment is xxxxxxxxxx"
+        "content": "Lead Compounds Treatment is xxxxxxxxxx",
+        "names": ["Inhalation/Ingestion", "Dermal", "Eye"],
+        "descriptions": ["Ammonia is found in many household cleaning supplies such as window cleaners, toilet cleaners, and furniture polish."
+        , "Accidental releases of ammonia in the farming, industrial, and commericial industries may occur."]
       }
     },
     {
@@ -164,24 +219,39 @@ export const navigation = [
       iconUrl: chemicalIcon,
       imageUrl: chemicalbg,
       "source": {
-        "title": "Source",
-        "content": "Toleune source is xxxxxxxxxx"
+        "title": "Exposure Source",
+        "content": "Toleune source is xxxxxxxxxx",
+        "names": ["Cleaning Products", "Accidental Releases"],
+        "descriptions": ["Ammonia is found in many household cleaning supplies such as window cleaners, toilet cleaners, and furniture polish."
+        , "Accidental releases of ammonia in the farming, industrial, and commericial industries may occur."]
       },
       "ex_route": {
         "title": "Exposure Route",
-        "content": "Toleune ex route is xxxxxxxxxx"
+        "content": "Toleune ex route is xxxxxxxxxx",
+        "names": ["Inhalation/Ingestion", "Dermal", "Eye"],
+        "descriptions": ["Ammonia is found in many household cleaning supplies such as window cleaners, toilet cleaners, and furniture polish."
+        , "Accidental releases of ammonia in the farming, industrial, and commericial industries may occur."]
       },
       "exposure": {
-        "title": "Exposure",
-        "content": "Toleune exposure is xxxxxxxxxx"
+        "title": "Level of Exposure",
+        "content": "Toleune exposure is xxxxxxxxxx",
+        "names": ["Minimum Risk", "Lethal Risk"],
+        "descriptions": ["Ammonia is found in many household cleaning supplies such as window cleaners, toilet cleaners, and furniture polish."
+        , "Accidental releases of ammonia in the farming, industrial, and commericial industries may occur."]
       },
       "symptoms": {
         "title": "Symptoms",
-        "content": "Toleune symtoms is xxxxxxxxxx"
+        "content": "Toleune symtoms is xxxxxxxxxx",
+        "names": ["Inhalation/Ingestion", "Dermal", "Eye"],
+        "descriptions": ["Ammonia is found in many household cleaning supplies such as window cleaners, toilet cleaners, and furniture polish."
+        , "Accidental releases of ammonia in the farming, industrial, and commericial industries may occur."]
       },
       "treatment": {
         "title": "Treatment",
-        "content": "Toleune is treatment xxxxxxxxxx"
+        "content": "Toleune is treatment xxxxxxxxxx",
+        "names": ["Inhalation/Ingestion", "Dermal", "Eye"],
+        "descriptions": ["Ammonia is found in many household cleaning supplies such as window cleaners, toilet cleaners, and furniture polish."
+        , "Accidental releases of ammonia in the farming, industrial, and commericial industries may occur."]
       }
     },
     {
@@ -193,24 +263,39 @@ export const navigation = [
       iconUrl: chemicalIcon,
       imageUrl: chemicalbg,
       "source": {
-        "title": "Source",
-        "content": "Methanol Source is xxxxxxxxxx"
+        "title": "Exposure Source",
+        "content": "Methanol Source is xxxxxxxxxx",
+        "names": ["Cleaning Products", "Accidental Releases"],
+        "descriptions": ["Ammonia is found in many household cleaning supplies such as window cleaners, toilet cleaners, and furniture polish."
+        , "Accidental releases of ammonia in the farming, industrial, and commericial industries may occur."]
       },
       "ex_route": {
         "title": "Exposure Route",
-        "content": "Methanol Exposure Route is xxxxxxxxxx"
+        "content": "Methanol Exposure Route is xxxxxxxxxx",
+        "names": ["Inhalation/Ingestion", "Dermal", "Eye"],
+        "descriptions": ["Ammonia is found in many household cleaning supplies such as window cleaners, toilet cleaners, and furniture polish."
+        , "Accidental releases of ammonia in the farming, industrial, and commericial industries may occur."]
       },
       "exposure": {
-        "title": "Exposure",
-        "content": "Methanol Exposure is xxxxxxxxxx"
+        "title": "Level of Exposure",
+        "content": "Methanol Exposure is xxxxxxxxxx",
+        "names": ["Minimum Risk", "Lethal Risk"],
+        "descriptions": ["Ammonia is found in many household cleaning supplies such as window cleaners, toilet cleaners, and furniture polish."
+        , "Accidental releases of ammonia in the farming, industrial, and commericial industries may occur."]
       },
       "symptoms": {
         "title": "Symptoms",
-        "content": "Methanol Symptoms is xxxxxxxxxx"
+        "content": "Methanol Symptoms is xxxxxxxxxx",
+        "names": ["Inhalation/Ingestion", "Dermal", "Eye"],
+        "descriptions": ["Ammonia is found in many household cleaning supplies such as window cleaners, toilet cleaners, and furniture polish."
+        , "Accidental releases of ammonia in the farming, industrial, and commericial industries may occur."]
       },
       "treatment": {
         "title": "Treatment",
-        "content": "Methanol Treatment is xxxxxxxxxx"
+        "content": "Methanol Treatment is xxxxxxxxxx",
+        "names": ["Inhalation/Ingestion", "Dermal", "Eye"],
+        "descriptions": ["Ammonia is found in many household cleaning supplies such as window cleaners, toilet cleaners, and furniture polish."
+        , "Accidental releases of ammonia in the farming, industrial, and commericial industries may occur."]
       }
     },
   ];

@@ -86,3 +86,7 @@
 .-rotate-360 {
     @apply rotate-[-360deg];
 }
+
+.myDiv {
+    background-color: transparent;
+}

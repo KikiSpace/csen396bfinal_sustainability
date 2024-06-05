@@ -17,12 +17,12 @@ const Insights = () => {
         <Section id="insights">
           <div className="container">
             <Heading
-              title="Top 3 Chemicals Insights"
-              text="data insights for toxic chemicals produced by industry from 1987 - 2023."
+              title="Industry Produced Chemicals"
+              text="Click on each bar or industry name to see which chemicals that industry produces and their amounts. Click the background to move back up."
             />
-            <div>
-              <iframe width="100%" height="594" frameBorder="0" src="https://observablehq.com/embed/8cafda7de076e39f@406?cells=chart&banner=false"></iframe>
-            </div>
+
+<iframe width="100%" height="594" frameborder="1"
+  src="https://observablehq.com/embed/8cafda7de076e39f?cells=chart&banner=false"></iframe>
             <div className="relative">
               <div className="relative z-1 flex items-center h-[39rem] mb-5 p-8 border border-n-1/10 rounded-3xl overflow-hidden lg:p-20 xl:h-[46rem]">
                 <div className="absolute top-0 left-0 w-full h-full pointer-events-none md:w-3/5 xl:w-auto">
