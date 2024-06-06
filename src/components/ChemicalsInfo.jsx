@@ -23,6 +23,13 @@ import exposure4 from "../assets/ChemicalsInfo/Level_of_exposure4.png"
 import exposure5 from "../assets/ChemicalsInfo/Level_of_exposure5.png"
 import exposure6 from "../assets/ChemicalsInfo/Level_of_exposure6.png"
 
+import treatment1 from "../assets/ChemicalsInfo/treat-ammonia.png"
+import treatment2 from "../assets/ChemicalsInfo/treat-nitric.png"
+import treatment3 from "../assets/ChemicalsInfo/treat-lead.png"
+import treatment4 from "../assets/ChemicalsInfo/treat-ethylene.png"
+import treatment5 from "../assets/ChemicalsInfo/treat-toleune.png"
+import treatment6 from "../assets/ChemicalsInfo/treat-menthanol.png"
+
 
 
 
@@ -45,8 +52,8 @@ const ChemicalsInfo = () => {
     }
 
     const chemicalImageSources = [c1, c2, c3, c4, c5, c6];
-    const subImageSources = {"ex_route": ex_route_image, "exposure":{"0":exposure1, "1":exposure2, "2":exposure3, "3":exposure4, "4":exposure5, "5":exposure6}}
-
+    const subImageSources = {"ex_route": ex_route_image, "exposure":{"0":exposure1, "1":exposure2, "2":exposure3, "3":exposure4, "4":exposure5, "5":exposure6}, "treatment": {"0":treatment1, "1":treatment2, "2":treatment3, "3":treatment4, "4":treatment5, "5":treatment6}}
+  
 
     return (
         <Section id="chemicals">
@@ -137,6 +144,7 @@ const ChemicalsInfo = () => {
                     {currentSubTitle === "ex_route" &&  <img src={subImageSources[currentSubTitle]} alt={currentSubTitle} />}
                     {currentSubTitle === "exposure" &&  <img src={subImageSources[currentSubTitle][currentChemicalIndex]} alt={currentSubTitle} />}
                     {currentSubTitle === "symptoms" &&  <RadarGraph index={currentChemicalIndex}/>}
+                    {currentSubTitle === "treatment" &&  <img src={subImageSources[currentSubTitle][currentChemicalIndex]} alt={currentSubTitle} />}
                    
           
                     
