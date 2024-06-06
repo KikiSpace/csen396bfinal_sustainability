@@ -13,6 +13,15 @@ ChartJS.register(RadialLinearScale, PointElement, LineElement, Title, Tooltip, L
 
 export const RadarGraph = ({index}) => {
     const options = {
+        elements: {
+            general: {
+                order: 3
+            },
+            line: {
+                borderJoinStyle: "round",
+                borderWidth: 1,
+            }
+        }
     }
 
     const datas = [ammonia, nitric_acid, lead, ethylene_glycol, toleune, methanol]
