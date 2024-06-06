@@ -19,8 +19,8 @@ const Insights = () => {
     <Section id="insights">
       <div className="container w-screen min-h-screen">
         <Heading
-          title="Industry Produced Chemicals"
-          text="Click on each bar or industry name to see which chemicals that industry produces and their amounts. Click the background to move back up."
+          title="Industries Produce Many Different Chemicals"
+          text="Californian facilities manage over 800 different chemicals across 24 different industry sectors. Click on each bar or industry name to see which chemicals that industry produces and their amounts. Click the background to move back up."
         />
 
         <div></div>
@@ -29,7 +29,7 @@ const Insights = () => {
   src="https://observablehq.com/embed/8cafda7de076e39f?cells=chart&banner=false"></iframe> */}
 
         <div className="relative">
-          <div className="relative z-1 flex items-center h-[39rem] mb-5 p-8 border border-n-1/10 rounded-3xl overflow-hidden lg:p-20 xl:h-[46rem]">
+          <div className="relative z-1 flex items-center h-[39rem] -mt-10 mb-5 p-8 border border-n-1/10 rounded-3xl overflow-hidden lg:p-20 xl:h-[46rem]">
             <div className="absolute top-0 left-0 w-full h-full pointer-events-none md:w-3/5 xl:w-auto">
               {/* <img
                     className="w-full h-full object-cover md:object-right"
@@ -44,13 +44,6 @@ const Insights = () => {
               height="594"
               src="https://observablehq.com/embed/8cafda7de076e39f?cells=chart&banner=false"
             ></iframe>
-
-            <div className="relative z-1 max-w-[17rem] ml-auto pl-5">
-              <h4 className="h4 mb-4">Top 3 Bar Chart (Q3)</h4>
-              <p className="body-2 mb-[3rem] text-n-3">
-                Brainwave unlocks the potential of AI-powered applications
-              </p>
-            </div>
           </div>
 
           <div className="relative z-1 gap-5">
@@ -66,10 +59,8 @@ const Insights = () => {
               </div>
 
               <div className="absolute inset-0 flex flex-col justify-end p-8 bg-gradient-to-b from-n-8/0 to-n-8/90 lg:p-15">
-                <h4 className="h4 mb-4">Trending amount Chart(Q5)</h4>
+                <h4 className="h4 mb-4">Toxic Waste Trendlines (1991 - 2022)</h4>
                 <p className="body-2 mb-[3rem] text-n-3">
-                  Automatically enhance your photos using our AI app&apos;s
-                  photo editing feature. Try it now!
                 </p>
                 <LineGraph />
               </div>

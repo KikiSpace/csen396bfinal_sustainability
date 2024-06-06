@@ -60,7 +60,7 @@ const ChemicalsInfo = () => {
           <div className="container relative z-2 w-screen min-h-screen">
             <Heading
               className="md:max-w-md lg:max-w-2xl"
-              title="Toxic chemicals are everywhere"
+              title="Explore The Top Chemicals Released"
             />
 
             <div className="flex gap-10 ">
