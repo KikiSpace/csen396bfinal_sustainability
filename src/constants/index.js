@@ -125,48 +125,6 @@ export const navigation = [
     },
     {
       id: "2",
-      title: "Ethylene Glycol ",
-      industry: "Petroleum, Chemicals",
-      text: "Ethylene glycol is mainly used as a raw material in the manufacture of polyester fibers and for antifreeze formulations.",
-      backgroundUrl: "./src/assets/benefits/card-3.svg",
-      iconUrl: chemicalIcon,
-      imageUrl: chemicalbg,
-      "source": {
-        "title": "Exposure Source",
-        "content": "Ethylene Glycol Source is xxxxxxxxxx",
-        "names": ["Coolant/Antifreeze Products", "Plastics"],
-        "descriptions": ["Ethylene glycol is a primary chemical used to make coolant or antifreeze found in autombiles and computer systems."
-        , "Ethylene glycol has become an important chemical for the plastics industry for the manufacturing of polyester fibers and resins, such as polyethylene terephthalate, which is used in soft drink plastic bottles."]
-      },
-      "ex_route": {
-        "title": "Exposure Route",
-        "content": "Ethylene Glycol Exposure Route is xxxxxxxxxx",
-        "names": ["Inhalation/Ingestion", "Dermal", "Eye"],
-        "descriptions": [""]
-      },
-      "exposure": {
-        "title": "Level of Exposure",
-        "content": "Ethylene Glycol Exposure is xxxxxxxxxx",
-        "names": ["Minimum Risk", "Lethal Risk"],
-        "descriptions": ["Acute Inhalation: 2 mg/m3, Acute Oral: 0.8 mg/kg/day.", "The lethal dosage of ethylene glycol is unknown."]
-      },
-      "symptoms": {
-        "title": "Symptoms",
-        "content": "Ethylene Glycol Symptoms is xxxxxxxxxx",
-        "names": ["Inhalation/Ingestion", "Dermal", "Eye"],
-        "descriptions": ["Ammonia is found in many household cleaning supplies such as window cleaners, toilet cleaners, and furniture polish."
-        , "Accidental releases of ammonia in the farming, industrial, and commericial industries may occur."]
-      },
-      "treatment": {
-        "title": "Treatment",
-        "content": "Ethylene Glycol Treatment is xxxxxxxxxx",
-        "names": ["Inhalation/Ingestion", "Dermal", "Eye"],
-        "descriptions": ["Ammonia is found in many household cleaning supplies such as window cleaners, toilet cleaners, and furniture polish."
-        , "Accidental releases of ammonia in the farming, industrial, and commericial industries may occur."]
-      }
-    },
-    {
-      id: "3",
       title: "Lead Compounds",
       industry: "Hazardous Waste, Electrical Equipment",
       text: "Lead is used abundantly in products such as paint, pipes, gasoline, batteries, ammunition, and cosmetics.",
@@ -205,6 +163,48 @@ export const navigation = [
       "treatment": {
         "title": "Treatment",
         "content": "Lead Compounds Treatment is xxxxxxxxxx",
+        "names": ["Inhalation/Ingestion", "Dermal", "Eye"],
+        "descriptions": ["Ammonia is found in many household cleaning supplies such as window cleaners, toilet cleaners, and furniture polish."
+        , "Accidental releases of ammonia in the farming, industrial, and commericial industries may occur."]
+      }
+    },
+    {
+      id: "3",
+      title: "Ethylene Glycol ",
+      industry: "Petroleum, Chemicals",
+      text: "Ethylene glycol is mainly used as a raw material in the manufacture of polyester fibers and for antifreeze formulations.",
+      backgroundUrl: "./src/assets/benefits/card-3.svg",
+      iconUrl: chemicalIcon,
+      imageUrl: chemicalbg,
+      "source": {
+        "title": "Exposure Source",
+        "content": "Ethylene Glycol Source is xxxxxxxxxx",
+        "names": ["Coolant/Antifreeze Products", "Plastics"],
+        "descriptions": ["Ethylene glycol is a primary chemical used to make coolant or antifreeze found in autombiles and computer systems."
+        , "Ethylene glycol has become an important chemical for the plastics industry for the manufacturing of polyester fibers and resins, such as polyethylene terephthalate, which is used in soft drink plastic bottles."]
+      },
+      "ex_route": {
+        "title": "Exposure Route",
+        "content": "Ethylene Glycol Exposure Route is xxxxxxxxxx",
+        "names": ["Inhalation/Ingestion", "Dermal", "Eye"],
+        "descriptions": [""]
+      },
+      "exposure": {
+        "title": "Level of Exposure",
+        "content": "Ethylene Glycol Exposure is xxxxxxxxxx",
+        "names": ["Minimum Risk", "Lethal Risk"],
+        "descriptions": ["Acute Inhalation: 2 mg/m3, Acute Oral: 0.8 mg/kg/day.", "The lethal dosage of ethylene glycol is unknown."]
+      },
+      "symptoms": {
+        "title": "Symptoms",
+        "content": "Ethylene Glycol Symptoms is xxxxxxxxxx",
+        "names": ["Inhalation/Ingestion", "Dermal", "Eye"],
+        "descriptions": ["Ammonia is found in many household cleaning supplies such as window cleaners, toilet cleaners, and furniture polish."
+        , "Accidental releases of ammonia in the farming, industrial, and commericial industries may occur."]
+      },
+      "treatment": {
+        "title": "Treatment",
+        "content": "Ethylene Glycol Treatment is xxxxxxxxxx",
         "names": ["Inhalation/Ingestion", "Dermal", "Eye"],
         "descriptions": ["Ammonia is found in many household cleaning supplies such as window cleaners, toilet cleaners, and furniture polish."
         , "Accidental releases of ammonia in the farming, industrial, and commericial industries may occur."]
@@ -316,5 +316,5 @@ export const navigation = [
   ];
 
   export const chemicalCardInfo = ["source", "ex_route", "exposure", "symptoms","treatment"]
-  export const chemicalCategories = {"0": "Ammonia", "1": "Nitric Acid", "2": "Ethylene Glycol", "3": "Lead Compounds", "4": "Toleune", "5": "Methanol"}
+  export const chemicalCategories = {"0": "Ammonia", "1": "Nitric Acid", "2": "Lead Compounds","3": "Ethylene Glycol", "4": "Toleune", "5": "Methanol"}
   export const chemicalCardMatchTitle = {"source": "Source", "ex_route": "Exposure Route", "exposure": "Level of Exposure", "symptoms": "Symptoms", "treatment": "Treatment"}
