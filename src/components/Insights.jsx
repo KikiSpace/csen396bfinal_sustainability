@@ -42,7 +42,6 @@ const Insights = () => {
             <iframe
               width="100%"
               height="594"
-              frameBorder="0"
               src="https://observablehq.com/embed/8cafda7de076e39f?cells=chart&banner=false"
             ></iframe>
 
