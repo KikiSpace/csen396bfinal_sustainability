@@ -14,12 +14,36 @@
     "@emotion/styled": "^11.11.5",
     "@mui/joy": "^5.0.0-beta.36",
     "@observablehq/runtime": "^5.9.8",
+
+    "chart.js": "^4.4.3",
+
     "8cafda7de076e39f": "https://api.observablehq.com/d/8cafda7de076e39f@439.tgz?v=3",
+
     "react": "^18.2.0",
+    "react-chartjs-2": "^5.2.0",
     "react-dom": "^18.2.0",
     "react-just-parallax": "^3.1.16",
     "react-router-dom": "^6.23.1",
-    "scroll-lock": "^2.1.5"
+    "scroll-lock": "^2.1.5",
+    "react-scripts": "^5.0.0",
+    "react-vertical-timeline-component": "3.6.0",
+    "@material-ui/icons": "4.11.3",
+    "@material-ui/core": "4.12.4",
+    "@visx/scale": "3.5.0",
+    "@visx/mock-data": "3.3.0",
+    "@visx/brush": "3.10.4",
+    "@visx/pattern": "3.3.0",
+    "@visx/gradient": "3.3.0",
+    "@visx/axis": "3.10.1",
+    "@visx/responsive": "3.10.2",
+    "react-use-dimensions": "1.2.1",
+    "bootstrap": "5.3.3",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "leaflet": "1.9.4",
+    "lucide-react": "^0.381.0",
+    "papaparse": "5.4.1",
+    "react-leaflet": "4.2.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",

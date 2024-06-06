@@ -1,0 +1,292 @@
+[
+    {
+        "id": "001",
+        "name": "Alameda",
+        "population": "1671329"
+    },
+    {
+        "id": "003",
+        "name": "Alpine",
+        "population": "1129"
+    },
+    {
+        "id": "005",
+        "name": "Amador",
+        "population": "39752"
+    },
+    {
+        "id": "007",
+        "name": "Butte",
+        "population": "219186"
+    },
+    {
+        "id": "009",
+        "name": "Calaveras",
+        "population": "45905"
+    },
+    {
+        "id": "011",
+        "name": "Colusa",
+        "population": "21547"
+    },
+    {
+        "id": "013",
+        "name": "Contra Costa",
+        "population": "1153526"
+    },
+    {
+        "id": "015",
+        "name": "Del Norte",
+        "population": "27812"
+    },
+    {
+        "id": "017",
+        "name": "El Dorado",
+        "population": "192843"
+    },
+    {
+        "id": "019",
+        "name": "Fresno",
+        "population": "999101"
+    },
+    {
+        "id": "021",
+        "name": "Glenn",
+        "population": "28195"
+    },
+    {
+        "id": "023",
+        "name": "Humboldt",
+        "population": "135558"
+    },
+    {
+        "id": "025",
+        "name": "Imperial",
+        "population": "188334"
+    },
+    {
+        "id": "027",
+        "name": "Inyo",
+        "population": "18039"
+    },
+    {
+        "id": "029",
+        "name": "Kern",
+        "population": "900202"
+    },
+    {
+        "id": "031",
+        "name": "Kings",
+        "population": "152940"
+    },
+    {
+        "id": "033",
+        "name": "Lake",
+        "population": "64386"
+    },
+    {
+        "id": "035",
+        "name": "Lassen",
+        "population": "30573"
+    },
+    {
+        "id": "037",
+        "name": "Los Angeles",
+        "population": "10039107"
+    },
+    {
+        "id": "039",
+        "name": "Madera",
+        "population": "157327"
+    },
+    {
+        "id": "041",
+        "name": "Marin",
+        "population": "258826"
+    },
+    {
+        "id": "043",
+        "name": "Mariposa",
+        "population": "17331"
+    },
+    {
+        "id": "045",
+        "name": "Mendocino",
+        "population": "86749"
+    },
+    {
+        "id": "047",
+        "name": "Merced",
+        "population": "277680"
+    },
+    {
+        "id": "049",
+        "name": "Modoc",
+        "population": "8841"
+    },
+    {
+        "id": "051",
+        "name": "Mono",
+        "population": "14444"
+    },
+    {
+        "id": "053",
+        "name": "Monterey",
+        "population": "434061"
+    },
+    {
+        "id": "055",
+        "name": "Napa",
+        "population": "137744"
+    },
+    {
+        "id": "057",
+        "name": "Nevada",
+        "population": "99755"
+    },
+    {
+        "id": "059",
+        "name": "Orange",
+        "population": "3175692"
+    },
+    {
+        "id": "061",
+        "name": "Placer",
+        "population": "398329"
+    },
+    {
+        "id": "063",
+        "name": "Plumas",
+        "population": "18807"
+    },
+    {
+        "id": "065",
+        "name": "Riverside",
+        "population": "2470546"
+    },
+    {
+        "id": "067",
+        "name": "Sacramento",
+        "population": "1552058"
+    },
+    {
+        "id": "069",
+        "name": "San Benito",
+        "population": "62808"
+    },
+    {
+        "id": "071",
+        "name": "San Bernardino",
+        "population": "2180085"
+    },
+    {
+        "id": "073",
+        "name": "San Diego",
+        "population": "3338330"
+    },
+    {
+        "id": "075",
+        "name": "San Francisco",
+        "population": "881549"
+    },
+    {
+        "id": "077",
+        "name": "San Joaquin",
+        "population": "762148"
+    },
+    {
+        "id": "079",
+        "name": "San Luis Obispo",
+        "population": "283111"
+    },
+    {
+        "id": "081",
+        "name": "San Mateo",
+        "population": "766573"
+    },
+    {
+        "id": "083",
+        "name": "Santa Barbara",
+        "population": "446499"
+    },
+    {
+        "id": "085",
+        "name": "Santa Clara",
+        "population": "1927852"
+    },
+    {
+        "id": "087",
+        "name": "Santa Cruz",
+        "population": "273213"
+    },
+    {
+        "id": "089",
+        "name": "Shasta",
+        "population": "180080"
+    },
+    {
+        "id": "091",
+        "name": "Sierra",
+        "population": "3005"
+    },
+    {
+        "id": "093",
+        "name": "Siskiyou",
+        "population": "43539"
+    },
+    {
+        "id": "095",
+        "name": "Solano",
+        "population": "447643"
+    },
+    {
+        "id": "097",
+        "name": "Sonoma",
+        "population": "494336"
+    },
+    {
+        "id": "099",
+        "name": "Stanislaus",
+        "population": "550660"
+    },
+    {
+        "id": "101",
+        "name": "Sutter",
+        "population": "96971"
+    },
+    {
+        "id": "103",
+        "name": "Tehama",
+        "population": "65084"
+    },
+    {
+        "id": "105",
+        "name": "Trinity",
+        "population": "12285"
+    },
+    {
+        "id": "107",
+        "name": "Tulare",
+        "population": "466195"
+    },
+    {
+        "id": "109",
+        "name": "Tuolumne",
+        "population": "54478"
+    },
+    {
+        "id": "111",
+        "name": "Ventura",
+        "population": "846006"
+    },
+    {
+        "id": "113",
+        "name": "Yolo",
+        "population": "220500"
+    },
+    {
+        "id": "115",
+        "name": "Yuba",
+        "population": "78668"
+    }
+]
