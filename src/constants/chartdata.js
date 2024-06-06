@@ -4,22 +4,22 @@ export const lineChartData = {
         {
             label: "ammonia",
             data: [41004164, 54796236, 69071322, 71995391, 59960433, 56902369, 33682775, 44745861, 33477813, 33731171, 157383416, 162383243, 184223640, 189149858, 191087946, 48015178, 46333380, 37219452, 35734302, 35805691, 35293970, 36228720, 35638645, 33472669, 34811946, 33732188, 32215887, 37229800, 39528955, 37472026, 37354208, 43059859],
-            borderColor: "violet",
+            borderColor: "#7A1546",
         },
         {
             label: "lead compounds",
             data: [68474536, 19619914, 21751260, 24664174, 23007340, 27688158, 29698440, 30332534, 29319926, 39224375, 49849550, 52559505, 52467895, 55677532, 61499172, 79936291, 84016763, 60765719, 53165526, 59084396, 63979311, 72404438, 197750599, 80450636, 31873960, 26882572, 33192442, 24050222, 25826130, 18928475, 22099618, 18963991],
-            borderColor: "violet",
+            borderColor: "#DC2E82",
         },
         {
             label: "toleune",
             data: [27158362, 27300343, 28086654, 28347131, 26113164, 23401667, 23659462, 20089885, 23186482, 11999258, 9809762, 9122492, 7351874, 5110124, 6461053, 9240935, 5539941, 4412294, 4112601, 4506365, 4958575, 4855067, 5940939, 4413426, 4538515, 6228185, 5472749, 5149228, 5225123, 5226226, 8565920, 5628857],   
-            borderColor: "violet",
+            borderColor: "#E773AB",
         },
         {
             label: "total waste",
              data: [157681621,125004313,115540552,892967358,920826226,965041267,777049610,623665847,398180634,357388707,400327901,508874672,484630559,528810828,503056790,513121769,504129227,520668131,393884116,389747236,325904326,297125381,316394468,319392658,320481341,463380375,356344480,335240252,294034865,283159470,296115992,288515910,242060529, 262715644,289583541],
-            borderColor: "rgb(75, 192, 192)",
+            borderColor: "#FFBC42",
         }
 
     ]
@@ -39,8 +39,8 @@ export const barChartData1_Ammonia = {
                 549324,
                 37734782,
                 ],
-            backgroundColor: ["aqua"],
-            borderColor: "rgba(255, 99, 132, 1)",
+            backgroundColor: ["#5cb257"],
+            borderColor: "#8c52ff",
             borderwidth: 1
         }
     ]
@@ -70,8 +70,8 @@ export const barChartData2_Nitric_Acid = {
                 172497,
                 400988.1,
                 730012.94],
-            backgroundColor: ["aqua"],
-            borderColor: "rgba(255, 99, 132, 1)",
+            backgroundColor: ["#5cb257"],
+            borderColor: "#8c52ff",
             borderwidth: 1
         }
     ]
@@ -93,8 +93,8 @@ export const barChartData3_Ethylene_Glycol = {
                 1620379,
                 14098074.61,
                 224309.3],
-            backgroundColor: ["aqua"],
-            borderColor: "rgba(255, 99, 132, 1)",
+            backgroundColor: ["#5cb257"],
+            borderColor: "#8c52ff",
             borderwidth: 1
         }
     ]
@@ -124,8 +124,8 @@ export const barChartData4_Lead_Compounds = {
                 1999.26888,
                 3900.91,
                 2047.885246],
-            backgroundColor: ["aqua"],
-            borderColor: "rgba(255, 99, 132, 1)",
+            backgroundColor: ["#5cb257"],
+            borderColor: "#8c52ff",
             borderwidth: 1
         }
     ]
@@ -161,8 +161,8 @@ export const barChartData5_Toleune = {
                 225968,
                 190484.57,
                 14368.34],
-            backgroundColor: ["aqua"],
-            borderColor: "rgba(255, 99, 132, 1)",
+            backgroundColor: ["#5cb257"],
+            borderColor: "#8c52ff",
             borderwidth: 1
         }
     ]
@@ -187,23 +187,24 @@ export const barChartData6_Methanol = {
                 3048424.708,
                 59435.76,
                 1558159],
-            backgroundColor: ["aqua"],
-            borderColor: "rgba(255, 99, 132, 1)",
+            backgroundColor: ["#5cb257"],
+            borderColor: "#8c52ff",
             borderwidth: 1
         }
     ]
 }
 
-
+//data: [5,1,2,1,2,1,2,1,2,1,2,1,2,5,5,1,2,5,1,5,2,5]
+//data: [1,0,1,0,1,0,1,0,1,0,1,0,1,1,1,0,1,1,0,1,1,1]
 
 export const radarChartData1_Ammonia = {
     labels: ["OTHER", "BODY_WEIGHT", "CARDIOVASCULAR", "DERMAL", "DEVELOPMENTAL", "ENDOCRINE", "GASTROINTESTINAL", "HEMATOLOGICAL", "HEPATIC", "IMMUNOLOGICAL", "METABOLIC", "MUSCULOSKELETAL", "NEUROLOGICAL", "OCULAR", "OTHER_SYSTEMIC", "RENAL", "REPRODUCTIVE", "RESPIRATORY", "NO_HEALTH_EFFECTS", "ACUTE", "INTERMEDIATE", "CHRONIC"],
     datasets: [
         {
             label: "Ammonia",
-            data: [5,1,2,1,2,1,2,1,2,1,2,1,2,5,5,1,2,5,1,5,2,5],
+            data: [5,1.1,2.1,1.2,2.2,1.3,2.3,1.4,2.4,1.5,2.5,1.6,2.6,5,5,1.7,2.7,5,1.8,5,2.8,5],
             backgroundColor: "rgba(255, 99, 132, 0.2)",
-            borderColor: "aqua",
+            borderColor: "#5ce1e6",
             borderwidth: 1
         }
     ]
@@ -215,30 +216,30 @@ export const radarChartData2_Ethylene_Glycol = {
     datasets: [
         {
             label: "Ethylbenzene",
-            data: [5,1,1,2,2,1,5,1,5,1,1,2,5,1,2,5,1,2,1,5,5,5],
+            data: [5,1,1.1,2.1,2.2,1.2,5,1.3,5,1.4,1.5,2.3,5,1.6,2.4,5,1.7,2.5,1.8,5,5,5],
             backgroundColor: "rgba(255, 99, 132, 0.2)",
-            borderColor: "aqua",
+            borderColor: "#5ce1e6",
             borderwidth: 1
         },
         {
             label: 'Ethylene Glycol',
-            data: [5,1,2,1,5,2,1,2,1,2,1,2,1,2,1,5,2,5,1,5,5,5],
+            data: [5,1.1,2.1,1.2,5,2.2,1.3,2.3,1.4,2.4,1.5,2.5,1.6,2.6,1.7,5,2.7,5,1.8,5,5,5],
             backgroundColor: "rgba(255, 99, 132, 0.2)",
-            borderColor: "pink",
+            borderColor: "#ff66c4 ",
             borderwidth: 1
         },
         {
             label: 'Ethylene O1ide',
-            data: [5,1,2,1,2,1,2,1,2,1,2,1,5,2,1,5,2,1,2,1,5,5],
+            data: [5,1.1,2.2,1.3,2.4,1.5,2.6,1.7,2.8,1.9,2.1,1.2,5,2.3,1.4,5,2.5,1.6,2.7,1.8,5,5],
             backgroundColor: "rgba(255, 99, 132, 0.2)",
-            borderColor: "yellow",
+            borderColor: "#ffde59",
             borderwidth: 1
         },
         {
             label: 'Ethylene Thiourea',
-            data: [5,1,2,1,2,5,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,5],
+            data: [5,1.1,2,1.2,2.1,5,1.3,2.2,1.4,2.3,1.5,2.4,1.6,2.5,1.7,2.6,1.8,2.7,1.9,2.8,1,5],
             backgroundColor: "rgba(255, 99, 132, 0.2)",
-            borderColor: "blue",
+            borderColor: "#5271ff",
             borderwidth: 1
         },
 
@@ -252,21 +253,21 @@ export const radarChartData3_Nitric_Acid = {
             label: "Nitrate Compounds",
             data: [5,1,2,1,5,2,1,5,0,2,1,2,1,2,1,2,1,2,1,2,1,5],
             backgroundColor: "rgba(255, 99, 132, 0.2)",
-            borderColor: "aqua",
+            borderColor: "#5ce1e6",
             borderwidth: 1
         },
         {
             label: 'Nitric Acid',
             data: [5,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,5,1,5,2,1],
             backgroundColor: "rgba(255, 99, 132, 0.2)",
-            borderColor: "pink",
+            borderColor: "#ff66c4 ",
             borderwidth: 1
         },
         {
             label: 'Nitrobenzene',
             data: [5,1,2,1,2,1,2,5,1,2,1,2,1,2,1,2,1,5,2,1,2,5],
             backgroundColor: "rgba(255, 99, 132, 0.2)",
-            borderColor: "yellow",
+            borderColor: "#ffde59",
             borderwidth: 1
         }
 
@@ -278,9 +279,9 @@ export const radarChartData4_Lead = {
     datasets: [
         {
             label: "Lead Compounds",
-            data: [5,1,5,1,5,1,2,5,1,2,1,2,5,1,2,5,5,1,2,1,2,1],
+            data: [5,1.1,5,1.2,5,1.3,2,5,1.4,2.2,1.5,2.3,4,1.6,2.4,5,4,1.7,2.5,1.8,2.6,1.9],
             backgroundColor: "rgba(255, 99, 132, 0.2)",
-            borderColor: "aqua",
+            borderColor: "#5ce1e6",
             borderwidth: 1
         }
 
@@ -292,30 +293,16 @@ export const radarChartData5_Toleune = {
     datasets: [
         {
             label: 'Toluene',
-            data: [5,1,2,1,2,1,2,1,2,1,2,1,5,5,1,5,2,5,1,5,5,5],
+            data: [5,1.1,2.1,1.2,2.2,1.3,2.3,1.4,2.4,1.5,2.5,1.6,5,5,1.7,5,2.6,5,1.8,5,5,5],
             backgroundColor: "rgba(255, 99, 132, 0.2)",
-            borderColor: "aqua",
-            borderwidth: 1
-        },
-        {
-            label: 'Toluene Diisocyanate (Mi1ed Isomers)',
-            data: [5,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,5,1,5,2,5],
-            backgroundColor: "rgba(255, 99, 132, 0.2)",
-            borderColor: "pink",
+            borderColor: "#5ce1e6",
             borderwidth: 1
         },
         {
             label: 'Toluene-2,4-diisocyanate)',
-            data: [5,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,5,1,5,2,5],
+            data: [5,1.1,2.1,1.2,2.2,1.3,2.3,1.4,2.4,1.5,2.5,1.6,2.6,1.7,2.7,1.8,2.8,5,1.9,5,2.9,5],
             backgroundColor: "rgba(255, 99, 132, 0.2)",
-            borderColor: "yellow",
-            borderwidth: 1
-        },
-        {
-            label: 'Toluene-2,4-diisocyanate)',
-            data: [5,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,5,1,5,2,5],
-            backgroundColor: "rgba(255, 99, 132, 0.2)",
-            borderColor: "blue",
+            borderColor: "#5271ff",
             borderwidth: 1
         },
 
@@ -328,30 +315,30 @@ export const radarChartData6_Methanol = {
     datasets: [
         {
             label: 'Methanol',
-            data: [5,1,2,2,5,2,1,1,5,1,1,2,5,1,5,2,1,2,1,5,1,5],
+            data: [5,1.1,2.1,2.2,5,2.3,1.2,1.3,5,1.4,1.5,2.4,5,1.6,5,2.5,1.7,2.6,1.8,5,1.9,5],
             backgroundColor: "rgba(255, 99, 132, 0.2)",
-            borderColor: "aqua",
+            borderColor: "#5ce1e6",
             borderwidth: 1
         },
         {
             label: 'Methazole',
-            data: [5,1,1,2,5,1,1,1,1,2,2,1,2,1,2,1,5,2,2,1,1,5],
+            data: [5,1.1,1.2,2.1,5,1.3,1.4,1.5,1.6,2.2,2.3,1.7,2.4,1.8,2.5,1.9,5,2.6,2.7,0.8,0.9,5],
             backgroundColor: "rgba(255, 99, 132, 0.2)",
-            borderColor: "pink",
+            borderColor: "#ff66c4 ",
             borderwidth: 1
         },
         {
             label: 'Methiocarb',
-            data: [5,1,1,2,1,2,1,2,1,1,2,5,5,1,2,2,2,1,1,2,2,5],
+            data: [5,1.1,1.2,2,1.3,2.1,1.4,2.2,1.5,1.6,2.3,5,5,1.7,2.4,2.5,2.6,1.8,1.9,2.7,2.8,5],
             backgroundColor: "rgba(255, 99, 132, 0.2)",
-            borderColor: "yellow",
+            borderColor: "#ffde59",
             borderwidth: 1
         },
         {
             label: 'Metho1one',
-            data: [5,1,1,1,1,1,2,1,5,2,1,1,2,2,2,5,5,1,1,5,2,5],
+            data: [5,1,1.1,1.2,1.3,1.4,2.1,1.5,5,2.2,1.6,1.7,2.3,2.4,2.5,5,5,1.8,1.9,5,2.6,5],
             backgroundColor: "rgba(255, 99, 132, 0.2)",
-            borderColor: "blue",
+            borderColor: "#5271ff",
             borderwidth: 1
         },
 
