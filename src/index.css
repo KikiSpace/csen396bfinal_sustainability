@@ -87,6 +87,7 @@
     @apply rotate-[-360deg];
 }
 
+
 .content {
     position: absolute;
     width: 100%;
@@ -114,3 +115,8 @@ video {
     height: screen;
     object-fit: cover;
   }
+
+.myDiv {
+    background-color: transparent;
+}
+

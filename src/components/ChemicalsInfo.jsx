@@ -84,6 +84,7 @@ const ChemicalsInfo = () => {
                            >
                           {/* {index} */}
                             <img src={chemicalImageSources[index]} alt={item} />
+
                           </div>
                         </li>
                       ))}
