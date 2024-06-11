@@ -39,9 +39,21 @@ We gathered data from TRI from 1987 to 2022. Each file includes 119 fields relat
 
 We dropped the unnecessary fields and kept only the fields we care about based on the questions above. We filtered the data and designed our visualizations below.
 
+## Design Architecture
+We developed a web application to effectively showcase our visualizations. The following diagram illustrates the overall design of our application, detailing the architecture and the interactions between various components.
+
+![design architecture](./src/assets/images/designArch.jpg)
+
 ## Data Visualization
 
 To answer the questions above, we created the following visualizations to better deliver insights from this hazard dataset.
+
+### Landing - Brush Area Chart
+The landing page is designed to deliver the context of our study and immerse our viewers in the questions we were considering. We achieve this by presenting the thought-provoking question, "Do you know how much toxic waste is produced around us?"
+
+![Brush Area Chart](./src/assets/images/brushchart.webp)
+
+At the same time, we use a Brush Area Chart to help viewers explore the quantitative value of waste released over the years. Participants can **select a time interval** by brushing the overview area below and obtaining more detailed information in the top area. We chose this Brush Area Chart because it effectively shows both the overall data and details of smaller sections simultaneously. It is a powerful introductory visualization that allows viewers to gain more information interactively.
 
 ### View 1 (Q1, Q3) - Interactive Map:
 
