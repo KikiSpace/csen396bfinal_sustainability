@@ -85,7 +85,7 @@ Following up, we use an interactive line chart to visualize the total toxic chem
 
 These two interactive charts deliver both horizontal and vertical insights regarding the trends of toxic chemical releases. They answer the question **“Q5: Is there any trend in the amount of toxic waste being produced per year?”** and inspire participants to think more deeply about the issue.
 
-**“Q6: How can facilities reduce the amount of chemicals they use?” **is an open question we leave for discussion or consideration by any viewer of our site. By going through our visualization and data insights, we hope everyone notices how we are surrounded by toxic chemicals and why sustainability is needed for everyone.
+**“Q6: How can facilities reduce the amount of chemicals they use?”** is an open question we leave for discussion or consideration by any viewer of our site. By going through our visualization and data insights, we hope everyone notices how we are surrounded by toxic chemicals and why sustainability is needed for everyone.
 
 ![about](./src/assets/images/about.webp)
 
