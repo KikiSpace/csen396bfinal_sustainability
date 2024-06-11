@@ -49,7 +49,7 @@ We used an interactive map to visualize the toxic chemical release in California
 
 ![interactive map](./src/assets/images/v1-map.webp)
 
-This interactive map lets participants easily navigate to the county they live in and get information about the level of toxic chemicals released in their area. It also provides rich information about the specific industry sources in those areas. It directly and highly engages participants, not only answering our initial questions** “Q1: Which California counties produce the most toxic waste?”** and **“Q3: Which chemicals are most prevalent in each county and in California overall?”** but also providing more context to help participants think about the problem.
+This interactive map lets participants easily navigate to the county they live in and get information about the level of toxic chemicals released in their area. It also provides rich information about the specific industry sources in those areas. It directly and highly engages participants, not only answering our initial questions **“Q1: Which California counties produce the most toxic waste?”** and **“Q3: Which chemicals are most prevalent in each county and in California overall?”** but also providing more context to help participants think about the problem.
 
 ### View 2 (Q2, Q4) - Infographic:
 
